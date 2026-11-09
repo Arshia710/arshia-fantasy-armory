@@ -642,3 +642,40 @@ body {
     padding-top: 88px !important;
   }
 }
+
+
+/* ===== v10c modal above fixed header ===== */
+.modal {
+  z-index: 2000 !important;
+  padding-top: 12px !important;
+  align-items: center !important;
+}
+
+.modal-card {
+  z-index: 2001 !important;
+  max-height: min(92vh, 900px) !important;
+  margin-top: 0 !important;
+}
+
+.modal-backdrop {
+  z-index: 2000 !important;
+}
+
+/* On small screens modal uses almost full height below safe area */
+@media (max-width: 700px) {
+  .modal {
+    padding: 8px !important;
+    padding-top: max(8px, env(safe-area-inset-top)) !important;
+    align-items: flex-end !important; /* sheet-style slightly from bottom is ok; center alternative: */
+    align-items: center !important;
+  }
+  .modal-card {
+    width: 100% !important;
+    max-height: 90vh !important;
+    overflow: auto !important;
+    -webkit-overflow-scrolling: touch;
+  }
+  .modal-preview {
+    min-height: 220px !important;
+  }
+}
