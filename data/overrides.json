@@ -1,0 +1,3024 @@
+{
+    "requiem_of_the_ninth_abyss": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "true_excalibur": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "creation_splitter": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "enigma": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "awakened_lichblade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "soulrender": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "soul_stealer": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "ribbon_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "waxweaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "brimstone_claymore": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "righteous_relic": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "whisperwind": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "magi_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "star_s_edge": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "storm_bringer": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "wickpiercer": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "watcher_claymore": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "watching_warglaive": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "storm_s_edge": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "hearthflame": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "icewhisper": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "thunderbrand": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "arcanethyst": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "plague_longsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "bramblethorn": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "emberblade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "royal_rapier": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "blood_edge": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "aquatic_sacred_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "ocean_s_rage": {
+        "type": "Trident",
+        "works_on": [
+            "trident"
+        ],
+        "group": "weapon"
+    },
+    "sculk_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "sculk_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "sculk_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "mythic_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "corrupted_mythic_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "cybernetic_katana": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "cybernetic_chainsaw_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "cybernetic_knife": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "divine_punisher": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "divine_reaper": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "divine_justice": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "pheonix_grace": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "soul_collector": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "soul_devourer": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "mystical_spellblade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "floral_sabre": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "floral_longsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "molten_blade": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "molten_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "death_knight_s_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "death_knight_s_dagger": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "chrono_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "legendary_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "hero_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "epic_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "sunbreak": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "demon_lord_s_great_axe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "demon_lord_s_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "jade_halberd": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "sentinel_s_will": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "demigod_s_unholy_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "demigod_s_unholy_halberd": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "demonic_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "acidic_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "demonic_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "bloody_death": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "frost_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "frost_axe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "frost_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "royal_chakram": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "amethyst_shuriken": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "power_fuse_hammer": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "power_fuse_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "dainsleif": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "thunder_bringer": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "dark_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "dark_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "muramasa": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "forest_guardian_s_glaive": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "fallen_god_s_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "fallen_god_s_spear": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "edge_of_the_astral_plane": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "ashura_s_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "pharaoh_s_treasure": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "abominable_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "abominable_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "abominable_great_saber": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "mjolnir": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "stop_sign": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "vampiric_needle": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "silverine_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "ancient_royal_great_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "terra_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "soul_harvester": {
+        "type": "Fist",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "dragon_slaying_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "soul_claws": {
+        "type": "Fist",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "wraith_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "soul_edge": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "tengen_s_blade": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "crescent_rose": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon"
+    },
+    "scissor_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "thousand_demon_daggers": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "hornet_s_needle": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "holy_moonlight_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "carian_knight_s_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "rivers_of_blood": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "yoru": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "masamune": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "divine_axe_rhitta": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon"
+    },
+    "cyber_mantis_blade": {
+        "type": "Fist",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "cyber_katana": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "cyber_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "katana": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "wakizashi": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "longsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "steel_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "estoc": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "partisan": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon"
+    },
+    "sabre": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon"
+    },
+    "vaelith": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "calamity_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "heavenly_partisan": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "nocturne": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "ravenous_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "solstice": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "amethyst_greatblade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "berserker_s_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "crystal_frostblade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "dragon_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "emerald_greatcleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "oculus": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "phantomguard_greatsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "revenant_s_gravecleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "sacrificial_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "talonbrand": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "valhakyra": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "vesper": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "ancient_greatslab": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "azure_greatsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "azure_sabre": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "black_iron_greatsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "crimson_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "demon_s_blood_blade": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "demonic_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "demonslayer_s_greatsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "grand_claymore": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "lycanbane": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "runic_piercer": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "spider_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "claymore": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "flamberge": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "nature_sword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "piercer": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "treacherous_cleaver": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "iron_broadsword": {
+        "type": "Sword",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "gilded_phoenix_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "legendary"
+    },
+    "berserker_s_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "crescent_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "gloomsteel_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "viridian_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "azure_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "black_iron_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "skeleton_axe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "treacherous_axe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "iron_battle_axe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "iron_greataxe": {
+        "type": "Axe",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "black_iron_clobberer": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "treacherous_bludgeon": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "iron_mace": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "wooden_bludgeon": {
+        "type": "Mace",
+        "works_on": [
+            "sword",
+            "axe",
+            "mace"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "phantomguard_partisan": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "iron_halberd": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "iron_polearm": {
+        "type": "Polearm",
+        "works_on": [
+            "sword",
+            "axe",
+            "spear"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "gloomsteel_katana": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "vengeance_blade": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "zenith": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "moonlight": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "uchigatana": {
+        "type": "Katana",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "gloomsteel_knife": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "azure_dagger": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "iron_dagger": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "iron_sai": {
+        "type": "Dagger",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "vindicator": {
+        "type": "Fist",
+        "works_on": [
+            "sword",
+            "axe"
+        ],
+        "group": "weapon",
+        "rarity": "superior"
+    },
+    "wooden_tonfa": {
+        "type": "Fist",
+        "works_on": [
+            "sword",
+            "axe",
+            "shield"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "crystal_frostscythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "revenant_s_gravescepter": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "windreaper": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "azure_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "iron_hay_scythe": {
+        "type": "Scythe",
+        "works_on": [
+            "sword",
+            "axe",
+            "hoe"
+        ],
+        "group": "weapon",
+        "rarity": "common"
+    },
+    "amethyst_greatpick": {
+        "type": "Pickaxe",
+        "works_on": [
+            "sword",
+            "axe",
+            "pickaxe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "talonpick": {
+        "type": "Pickaxe",
+        "works_on": [
+            "sword",
+            "axe",
+            "pickaxe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "viridian_pickaxe": {
+        "type": "Pickaxe",
+        "works_on": [
+            "sword",
+            "axe",
+            "pickaxe"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "azure_pickaxe": {
+        "type": "Pickaxe",
+        "works_on": [
+            "sword",
+            "axe",
+            "pickaxe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "demon_s_blood_pick": {
+        "type": "Pickaxe",
+        "works_on": [
+            "sword",
+            "axe",
+            "pickaxe"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "amethyst_greatshovel": {
+        "type": "Shovel",
+        "works_on": [
+            "shovel"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "talonshovel": {
+        "type": "Shovel",
+        "works_on": [
+            "shovel"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "viridian_shovel": {
+        "type": "Shovel",
+        "works_on": [
+            "shovel"
+        ],
+        "group": "weapon",
+        "rarity": "special"
+    },
+    "azure_shovel": {
+        "type": "Shovel",
+        "works_on": [
+            "shovel"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "demon_s_blood_shovel": {
+        "type": "Shovel",
+        "works_on": [
+            "shovel"
+        ],
+        "group": "weapon",
+        "rarity": "exquisite"
+    },
+    "invisible_shield": {
+        "type": "Shield",
+        "works_on": [
+            "shield"
+        ],
+        "group": "weapon"
+    },
+    "absolution_robe": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "aken": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "aqua": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "archer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "assassin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "avatar_robe": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "berserker": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "billporon": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "blightbringer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "bounty_hunter": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "chess_board_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "crimson_guard": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "crimson_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "crucible_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "crusader": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "dark_cover": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "dark_lord": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "dead_gladiator": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "deadeye": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "deathmantle_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "destroyer_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "dragonslayer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "eclipse_soldier": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "elemental_apprentice": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "enhanced_feline": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "enhanced_griffin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "enhanced_ursine": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "enhanced_wolven": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "evening_ghost": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "feline": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "flesh_of_the_feaster": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "fog_guard": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "forgotten_trace": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "frozen_champion": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "gilded_hunt": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "golden_execution": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "golden_horns": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "grandmaster_feline": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "grandmaster_griffin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "grandmaster_ursine": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "grandmaster_wolven": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "grave_sentinel": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "griffin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "hero": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "hurricane": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "icebound_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "initiate": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "justicar_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "kaer_morhen": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "lady_maria": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "lightbringer_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "malenia": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "mastercrafted_feline": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "mastercrafted_griffin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "mastercrafted_ursine": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "mastercrafted_wolven": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "mountain": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_aqua": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_assassin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_berserker": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_crusader": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_deadeye": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_northling": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_prior": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_ranger": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_terra": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_tundra_hunter": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_war_archer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "netherite_wind": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "norse_warlord": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "northling": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "ocean": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "old_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "onslaught_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "oriene": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "ornstein": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "paladin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "phasleb": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "plaguebringer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "polar_stalker": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "priest": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "prior": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "ranger": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "redeemer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "riftstalker_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "rogue": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "ronin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "sentinel_archer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "silver_knight": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "slayer_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "spark_of_dawn": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "strider_armor": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "sunset_wings": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "superior_feline": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "superior_griffin": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "superior_ursine": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "superior_wolven": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "tempest_robe": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "terra": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "thief": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "tundra_hunter": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "twinned": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "ursine": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "wandering_wizard": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "war_archer": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "warrior": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "wildling": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "wind": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "wind_worshipper": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "wolven": {
+        "type": "Full Set",
+        "group": "armor",
+        "works_on": [
+            "helmet",
+            "chestplate",
+            "leggings",
+            "boots"
+        ],
+        "rarity": "common"
+    },
+    "aeternium_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "bastion_of_light": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "bulwark_of_azzinoth": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "diamond_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "golden_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "iron_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "netherite_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "ruby_kite_shield": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "sword_breaker_s_bulwark": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    },
+    "valkyrie_bulwark": {
+        "type": "Shield",
+        "group": "weapon",
+        "works_on": [
+            "shield"
+        ],
+        "rarity": "common"
+    }
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description" content="Arshia Fantasy Armory — custom Minecraft armor, weapons, shields and tridents" />
+  <title>Arshia Fantasy Armory</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">⚔</span>
+        <div>
+          <h1>Arshia Fantasy Armory</h1>
+          <p class="tagline">Custom armors · weapons · shields · tridents</p>
+        </div>
+      </div>
+      <label class="search-wrap">
+        <span class="sr-only">Search</span>
+        <input id="search" type="search" placeholder="Search weapons &amp; armor…" autocomplete="off" />
+      </label>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>ARSHIA FANTASY<br />ARMORY</h2>
+      <p>Rename items in an anvil to unlock custom models. Browse the full catalog below.</p>
+    </div>
+    <div class="hero-stage" id="hero-stage" aria-hidden="true">
+      <div class="hero-spin" id="hero-spin">⚔</div>
+      <p class="hero-label" id="hero-label"></p>
+    </div>
+  </section>
+
+  <div class="group-bar" id="group-filters">
+    <button type="button" class="group-btn active" data-group="all">All</button>
+    <button type="button" class="group-btn" data-group="armor">Armor</button>
+    <button type="button" class="group-btn" data-group="weapon">Weapons</button>
+  </div>
+
+  <div class="type-bar-wrap">
+    <div class="type-bar" id="type-filters"></div>
+  </div>
+
+  <div class="rarity-bar-wrap">
+    <div class="type-bar rarity-bar" id="rarity-filters"></div>
+  </div>
+
+  <div class="source-row">
+    <label>
+      Source
+      <select id="source-filter"><option value="all">All sources</option></select>
+    </label>
+    <span id="result-count"></span>
+  </div>
+
+  <main class="content">
+    <div id="items" class="grid"></div>
+    <p id="empty" class="empty hidden">No items match your filters.</p>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card">
+      <button type="button" class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-layout">
+        <div class="modal-preview" id="modal-preview"></div>
+        <div class="modal-info">
+          <h2 id="modal-title"></h2>
+          <p class="modal-rarity" id="modal-rarity"></p>
+          <p class="modal-type" id="modal-type"></p>
+          <div class="works-icons" id="works-icons" title="Works on"></div>
+          <p class="modal-source" id="modal-source"></p>
+          <div class="modal-actions">
+            <button type="button" class="btn primary" id="copy-btn">Copy name</button>
+            <span id="copy-toast" class="toast hidden">Copied!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Personal showcase · Credit original mod &amp; pack authors · v0.5.0 catalog</p>
+  </footer>
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three/three.module.js",
+      "three/addons/": "./vendor/three/addons/"
+    }
+  }
+</script>
+<script type="module" src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,470 @@
+========================================================================
+Arshia Fantasy Armory — categories_master
+Source of truth for scanner / website database
+========================================================================
+
+Format per line:
+  name | type | works_on | rarity | source
+
+rarity: only filled for Nongko for now (others = common until site review)
+works_on: sword, axe, spear, mace, hoe, pickaxe, shovel, shield, trident,
+          helmet, chestplate, leggings, boots
+
+When updating: add/edit lines in the right section. Then run scanner.
+
+
+------------------------------------------------------------------------
+  WEAPONS — Blades Of Majestica
+------------------------------------------------------------------------
+
+## Sword (68)
+
+Abominable Blade | Sword | sword, axe | common | Blades of Majestica
+Abominable Great Saber | Sword | sword, axe | common | Blades of Majestica
+Acidic Cleaver | Sword | sword, axe | common | Blades of Majestica
+Amethyst Shuriken | Sword | sword, axe | common | Blades of Majestica
+Ancient Royal Great Sword | Sword | sword, axe | common | Blades of Majestica
+Aquatic Sacred Blade | Sword | sword, axe | common | Blades of Majestica
+Ashura's Blade | Sword | sword, axe | common | Blades of Majestica
+Awakened Lichblade | Sword | sword, axe | common | Blades of Majestica
+Blood Edge | Sword | sword, axe | common | Blades of Majestica
+Bramblethorn | Sword | sword, axe | common | Blades of Majestica
+Brimstone Claymore | Sword | sword, axe | common | Blades of Majestica
+Carian Knight's Sword | Sword | sword, axe | common | Blades of Majestica
+Chrono Blade | Sword | sword, axe | common | Blades of Majestica
+Corrupted Mythic Blade | Sword | sword, axe | common | Blades of Majestica
+Cyber Sword | Sword | sword, axe | common | Blades of Majestica
+Cybernetic Chainsaw Blade | Sword | sword, axe | common | Blades of Majestica
+Dainsleif | Sword | sword, axe | common | Blades of Majestica
+Dark Blade | Sword | sword, axe | common | Blades of Majestica
+Dark Cleaver | Sword | sword, axe | common | Blades of Majestica
+Death Knight's Sword | Sword | sword, axe | common | Blades of Majestica
+Demigod's Unholy Blade | Sword | sword, axe | common | Blades of Majestica
+Demon Lord's Sword | Sword | sword, axe | common | Blades of Majestica
+Demonic Blade | Sword | sword, axe | common | Blades of Majestica
+Demonic Cleaver | Sword | sword, axe | common | Blades of Majestica
+Divine Punisher | Sword | sword, axe | common | Blades of Majestica
+Dragon Slaying blade | Sword | sword, axe | common | Blades of Majestica
+Emberblade | Sword | sword, axe | common | Blades of Majestica
+Enigma | Sword | sword, axe | common | Blades of Majestica
+Epic Sword | Sword | sword, axe | common | Blades of Majestica
+Estoc | Sword | sword, axe | common | Blades of Majestica
+Fallen God's Sword | Sword | sword, axe | common | Blades of Majestica
+Floral Longsword | Sword | sword, axe | common | Blades of Majestica
+Floral Sabre | Sword | sword, axe | common | Blades of Majestica
+Frost Blade | Sword | sword, axe | common | Blades of Majestica
+Hero Sword | Sword | sword, axe | common | Blades of Majestica
+Holy Moonlight Sword | Sword | sword, axe | common | Blades of Majestica
+Hornet's Needle | Sword | sword, axe | common | Blades of Majestica
+Legendary Sword | Sword | sword, axe | common | Blades of Majestica
+Longsword | Sword | sword, axe | common | Blades of Majestica
+Molten Sword | Sword | sword, axe | common | Blades of Majestica
+Mystical Spellblade | Sword | sword, axe | common | Blades of Majestica
+Mythic Blade | Sword | sword, axe | common | Blades of Majestica
+Pharaoh's Treasure | Sword | sword, axe | common | Blades of Majestica
+Pheonix Grace | Sword | sword, axe | common | Blades of Majestica
+Plague Longsword | Sword | sword, axe | common | Blades of Majestica
+Power Fuse Sword | Sword | sword, axe | common | Blades of Majestica
+Ribbon Cleaver | Sword | sword, axe | common | Blades of Majestica
+Righteous Relic | Sword | sword, axe | common | Blades of Majestica
+Royal Chakram | Sword | sword, axe | common | Blades of Majestica
+Royal Rapier | Sword | sword, axe | common | Blades of Majestica
+Sabre | Sword | sword, axe | common | Blades of Majestica
+Scissor Blade | Sword | sword, axe | common | Blades of Majestica
+Sculk Cleaver | Sword | sword, axe | common | Blades of Majestica
+Sculk Sword | Sword | sword, axe | common | Blades of Majestica
+Silverine Blade | Sword | sword, axe | common | Blades of Majestica
+Soul Devourer | Sword | sword, axe | common | Blades of Majestica
+Star's Edge | Sword | sword, axe | common | Blades of Majestica
+Steel Sword | Sword | sword, axe | common | Blades of Majestica
+Storm Bringer | Sword | sword, axe | common | Blades of Majestica
+Storm's Edge | Sword | sword, axe | common | Blades of Majestica
+Terra Blade | Sword | sword, axe | common | Blades of Majestica
+Thunder Bringer | Sword | sword, axe | common | Blades of Majestica
+True Excalibur | Sword | sword, axe | common | Blades of Majestica
+Vampiric Needle | Sword | sword, axe | common | Blades of Majestica
+Watcher Claymore | Sword | sword, axe | common | Blades of Majestica
+Watching Warglaive | Sword | sword, axe | common | Blades of Majestica
+Waxweaver | Sword | sword, axe | common | Blades of Majestica
+Yoru | Sword | sword, axe | common | Blades of Majestica
+
+## Katana (12)
+
+Creation Splitter | Katana | sword, axe | common | Blades of Majestica
+Cyber Katana | Katana | sword, axe | common | Blades of Majestica
+Cybernetic Katana | Katana | sword, axe | common | Blades of Majestica
+Edge Of The Astral Plane | Katana | sword, axe | common | Blades of Majestica
+Katana | Katana | sword, axe | common | Blades of Majestica
+Masamune | Katana | sword, axe | common | Blades of Majestica
+Molten Blade | Katana | sword, axe | common | Blades of Majestica
+Muramasa | Katana | sword, axe | common | Blades of Majestica
+Rivers Of Blood | Katana | sword, axe | common | Blades of Majestica
+Soul Edge | Katana | sword, axe | common | Blades of Majestica
+Thousand Demon Daggers | Katana | sword, axe | common | Blades of Majestica
+Whisperwind | Katana | sword, axe | common | Blades of Majestica
+
+## Axe (3)
+
+Demon Lord's Great Axe | Axe | sword, axe, mace | common | Blades of Majestica
+Divine Axe Rhitta | Axe | sword, axe, mace | common | Blades of Majestica
+Frost Axe | Axe | sword, axe, mace | common | Blades of Majestica
+
+## Mace (3)
+
+Hearthflame | Mace | sword, axe, mace | common | Blades of Majestica
+Power Fuse Hammer | Mace | sword, axe, mace | common | Blades of Majestica
+Mjolnir | Mace | sword, axe, mace | common | Blades of Majestica
+
+
+## Polearm (13)
+
+Arcanethyst | Polearm | sword, axe, spear | common | Blades of Majestica
+Demigod's Unholy Halberd | Polearm | sword, axe, spear | common | Blades of Majestica
+Divine Justice | Polearm | sword, axe, spear | common | Blades of Majestica
+Fallen God's Spear | Polearm | sword, axe, spear | common | Blades of Majestica
+Forest Guardian's Glaive | Polearm | sword, axe, spear | common | Blades of Majestica
+Icewhisper | Polearm | sword, axe, spear | common | Blades of Majestica
+Jade Halberd | Polearm | sword, axe, spear | common | Blades of Majestica
+Partisan | Polearm | sword, axe, spear | common | Blades of Majestica
+Sentinel's Will | Polearm | sword, axe, spear | common | Blades of Majestica
+Stop Sign | Polearm | sword, axe, spear | common | Blades of Majestica
+Sunbreak | Polearm | sword, axe, spear | common | Blades of Majestica
+Thunderbrand | Polearm | sword, axe, spear | common | Blades of Majestica
+Wickpiercer | Polearm | sword, axe, spear | common | Blades of Majestica
+
+## Dagger (5)
+
+Cybernetic Knife | Dagger | sword, axe | common | Blades of Majestica
+Death Knight's Dagger | Dagger | sword, axe | common | Blades of Majestica
+Soul Stealer | Dagger | sword, axe | common | Blades of Majestica
+Tengen's Blade | Dagger | sword, axe | common | Blades of Majestica
+Wakizashi | Dagger | sword, axe | common | Blades of Majestica
+
+## Fist (3)
+
+Cyber Mantis Blade | Fist | sword, axe | common | Blades of Majestica
+Soul Claws | Fist | sword, axe | common | Blades of Majestica
+Soul Harvester | Fist | sword, axe | common | Blades of Majestica
+
+## Scythe (11)
+
+Abominable Scythe | Scythe | sword, axe, hoe | common | Blades of Majestica
+Bloody Death | Scythe | sword, axe, hoe | common | Blades of Majestica
+Crescent Rose | Scythe | sword, axe, hoe | common | Blades of Majestica
+Divine Reaper | Scythe | sword, axe, hoe | common | Blades of Majestica
+Frost Scythe | Scythe | sword, axe, hoe | common | Blades of Majestica
+Magi Scythe | Scythe | sword, axe, hoe | common | Blades of Majestica
+Requiem of the Ninth Abyss | Scythe | sword, axe, hoe | common | Blades of Majestica
+Sculk Scythe | Scythe | sword, axe, hoe | common | Blades of Majestica
+Soul Collector | Scythe | sword, axe, hoe | common | Blades of Majestica
+Soulrender | Scythe | sword, axe, hoe | common | Blades of Majestica
+Wraith Scythe | Scythe | sword, axe, hoe | common | Blades of Majestica
+
+## Trident (1)
+
+Ocean's Rage | Trident | trident | common | Blades of Majestica
+
+------------------------------------------------------------------------
+  WEAPONS — Nongko's Fantasy Weapons
+------------------------------------------------------------------------
+
+## Sword (39)
+
+Amethyst Greatblade | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Ancient Greatslab | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Azure Greatsword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Azure Sabre | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Berserker's Cleaver | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Black Iron Greatsword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Calamity Blade | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Claymore | Sword | sword, axe | superior | Nongko's Fantasy Weapons
+Crimson Cleaver | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Crystal Frostblade | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Demon's Blood Blade | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Demonic Sword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Demonslayer's Greatsword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Dragon Sword | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Emerald Greatcleaver | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Ethereal Frostblade | Sword | sword, axe | common | Nongko's Fantasy Weapons
+Flamberge | Sword | sword, axe | superior | Nongko's Fantasy Weapons
+Grand Claymore | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Heavenly Partisan | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Iron Broadsword | Sword | sword, axe | common | Nongko's Fantasy Weapons
+Lycanbane | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Nature Sword | Sword | sword, axe | superior | Nongko's Fantasy Weapons
+Nocturne | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Oculus | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Phantomguard Greatsword | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Piercer | Sword | sword, axe | superior | Nongko's Fantasy Weapons
+Ravenous Blade | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Revenant's Gravecleaver | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Runic Piercer | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Sacrificial Cleaver | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Solstice | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Spider Sword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
+Talonbrand | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Treacherous Cleaver | Sword | sword, axe | superior | Nongko's Fantasy Weapons
+Vaelith | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Valhakyra | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Vesper | Sword | sword, axe | special | Nongko's Fantasy Weapons
+Void Oculus | Sword | sword, axe | common | Nongko's Fantasy Weapons
+Winterthorn | Sword | sword, axe | common | Nongko's Fantasy Weapons
+
+## Katana (5)
+
+Gloomsteel Katana | Katana | sword, axe | special | Nongko's Fantasy Weapons
+Moonlight | Katana | sword, axe | exquisite | Nongko's Fantasy Weapons
+Uchigatana | Katana | sword, axe | superior | Nongko's Fantasy Weapons
+Vengeance Blade | Katana | sword, axe | special | Nongko's Fantasy Weapons
+Zenith | Katana | sword, axe | special | Nongko's Fantasy Weapons
+
+## Axe (11)
+
+Azure Greataxe | Axe | sword, axe, mace | exquisite | Nongko's Fantasy Weapons
+Berserker's Greataxe | Axe | sword, axe, mace | special | Nongko's Fantasy Weapons
+Black Iron Greataxe | Axe | sword, axe, mace | exquisite | Nongko's Fantasy Weapons
+Crescent Greataxe | Axe | sword, axe, mace | special | Nongko's Fantasy Weapons
+Gilded Phoenix Greataxe | Axe | sword, axe, mace | legendary | Nongko's Fantasy Weapons
+Gloomsteel Greataxe | Axe | sword, axe, mace | special | Nongko's Fantasy Weapons
+Iron Battle Axe | Axe | sword, axe, mace | common | Nongko's Fantasy Weapons
+Iron Greataxe | Axe | sword, axe, mace | common | Nongko's Fantasy Weapons
+Skeleton Axe | Axe | sword, axe, mace | exquisite | Nongko's Fantasy Weapons
+Treacherous Axe | Axe | sword, axe, mace | superior | Nongko's Fantasy Weapons
+Viridian Greataxe | Axe | sword, axe, mace | special | Nongko's Fantasy Weapons
+
+## Mace (4)
+
+Black Iron Clobberer | Mace | sword, axe, mace | exquisite | Nongko's Fantasy Weapons
+Iron Mace | Mace | sword, axe, mace | common | Nongko's Fantasy Weapons
+Treacherous Bludgeon | Mace | sword, axe, mace | superior | Nongko's Fantasy Weapons
+Wooden Bludgeon | Mace | sword, axe, mace | common | Nongko's Fantasy Weapons
+
+## Polearm (3)
+
+Iron Halberd | Polearm | sword, axe, spear | common | Nongko's Fantasy Weapons
+Iron Polearm | Polearm | sword, axe, spear | common | Nongko's Fantasy Weapons
+Phantomguard Partisan | Polearm | sword, axe, spear | special | Nongko's Fantasy Weapons
+
+## Dagger (4)
+
+Azure Dagger | Dagger | sword, axe | exquisite | Nongko's Fantasy Weapons
+Gloomsteel Knife | Dagger | sword, axe | special | Nongko's Fantasy Weapons
+Iron Dagger | Dagger | sword, axe | common | Nongko's Fantasy Weapons
+Iron Sai | Dagger | sword, axe | common | Nongko's Fantasy Weapons
+
+## Fist (2)
+
+Vindicator | Fist | sword, axe | superior | Nongko's Fantasy Weapons
+Wooden Tonfa | Fist | sword, axe, shield | common | Nongko's Fantasy Weapons
+
+## Scythe (6)
+
+Azure Scythe | Scythe | sword, axe, hoe | exquisite | Nongko's Fantasy Weapons
+Crystal Frostscythe | Scythe | sword, axe, hoe | special | Nongko's Fantasy Weapons
+Iron Hay Sickle | Scythe | sword, axe, hoe | common | Nongko's Fantasy Weapons
+Revenant's Gravescepter | Scythe | sword, axe, hoe | special | Nongko's Fantasy Weapons
+Revenant's Darkscepter | Scythe | sword, axe, hoe | special | Nongko's Fantasy Weapons
+Windreaper | Scythe | sword, axe, hoe | special | Nongko's Fantasy Weapons
+
+## Pickaxe (5)
+
+Amethyst Greatpick | Pickaxe | sword, axe, pickaxe | special | Nongko's Fantasy Weapons
+Azure Pickaxe | Pickaxe | sword, axe, pickaxe | exquisite | Nongko's Fantasy Weapons
+Demon's Blood Pick | Pickaxe | sword, axe, pickaxe | exquisite | Nongko's Fantasy Weapons
+Talonpick | Pickaxe | sword, axe, pickaxe | special | Nongko's Fantasy Weapons
+Viridian Pickaxe | Pickaxe | sword, axe, pickaxe | special | Nongko's Fantasy Weapons
+
+## Shovel (5)
+
+Amethyst Greatshovel | Shovel | shovel | special | Nongko's Fantasy Weapons
+Azure Shovel | Shovel | shovel | exquisite | Nongko's Fantasy Weapons
+Demon's Blood Shovel | Shovel | shovel | exquisite | Nongko's Fantasy Weapons
+Talonshovel | Shovel | shovel | special | Nongko's Fantasy Weapons
+Viridian Shovel | Shovel | shovel | special | Nongko's Fantasy Weapons
+
+## Shield (1)
+
+Invisible Shield | Shield | shield | common | Nongko's Fantasy Weapons
+
+------------------------------------------------------------------------
+  WEAPONS — Arshia / Tridents & special
+------------------------------------------------------------------------
+
+## Mace (3)
+
+CIT Mjolnir | Mace | trident, mace | common | Arshia Fantasy Armory
+GoW Mjolnir | Mace | trident, mace | common | Arshia Fantasy Armory
+MCU Stormbreaker | Mace | trident, mace | common | Arshia Fantasy Armory
+
+
+## Shield (10)
+
+Aeternium Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Bastion of Light | Shield | shield | common | Arshia Fantasy Armory
+Bulwark of Azzinoth | Shield | shield | common | Arshia Fantasy Armory
+Diamond Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Golden Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Iron Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Netherite Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Ruby Kite Shield | Shield | shield | common | Arshia Fantasy Armory
+Sword Breaker's Bulwark | Shield | shield | common | Other
+Valkyrie Bulwark | Shield | shield | common | Arshia Fantasy Armory
+
+## Trident (4)
+
+Crimson Trident | Trident | trident | common | Arshia Fantasy Armory
+Crystal Trident | Trident | trident | common | Arshia Fantasy Armory
+Phantomguard Trident | Trident | trident | common | Arshia Fantasy Armory
+Rethoughted Trident | Trident | trident | common | Arshia Fantasy Armory
+
+------------------------------------------------------------------------
+  ARMOR — Full Sets
+------------------------------------------------------------------------
+  (all: helmet, chestplate, leggings, boots)
+
+## Fantasy Armor (29)
+
+Chess Board Knight | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Crucible Knight | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Dark Cover | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Dark Lord | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Dead Gladiator | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Dragonslayer | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Eclipse Soldier | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Evening Ghost | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Flesh of the Feaster | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Fog Guard | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Forgotten Trace | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Gilded Hunt | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Golden Execution | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Golden Horns | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Grave Sentinel | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Hero | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Lady Maria | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Malenia | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Old Knight | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Ornstein | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Redeemer | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Ronin | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Silver Knight | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Spark of Dawn | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Sunset Wings | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Thief | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Twinned | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Wandering Wizard | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+Wind Worshipper | Full Set | helmet, chestplate, leggings, boots | common | Fantasy Armor
+
+## Armory (RPG Series) (11)
+
+Absolution Robe | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Avatar Robe | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Deathmantle Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Destroyer Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Justicar Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Lightbringer Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Onslaught Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Riftstalker Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Slayer Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Strider Armor | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+Tempest Robe | Full Set | helmet, chestplate, leggings, boots | common | Armory (RPG Series)
+
+## Rogues (RPG Series) (6)
+
+Assassin | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+Berserker | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+Netherite Assassin | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+Netherite Berserker | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+Rogue | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+Warrior | Full Set | helmet, chestplate, leggings, boots | common | Rogues (RPG Series)
+
+## Archers (RPG Series) (3)
+
+Archer | Full Set | helmet, chestplate, leggings, boots | common | Archers (RPG Series)
+Netherite Ranger | Full Set | helmet, chestplate, leggings, boots | common | Archers (RPG Series)
+Ranger | Full Set | helmet, chestplate, leggings, boots | common | Archers (RPG Series)
+
+## Archers Expansion (RPG Series) (9)
+
+Bounty Hunter | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Deadeye | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Netherite Deadeye | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Netherite Tundra Hunter | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Netherite War Archer | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Polar Stalker | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Sentinel Archer | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+Tundra Hunter | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+War Archer | Full Set | helmet, chestplate, leggings, boots | common | Archers Expansion (RPG Series)
+
+## Death Knights (RPG Series) (7)
+
+Blightbringer | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Crimson Guard | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Crimson Knight | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Frozen Champion | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Icebound Knight | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Initiate | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+Plaguebringer | Full Set | helmet, chestplate, leggings, boots | common | Death Knights (RPG Series)
+
+## Forcemaster (RPG Series) (4)
+
+Aken | Full Set | helmet, chestplate, leggings, boots | common | Forcemaster (RPG Series)
+Billporon | Full Set | helmet, chestplate, leggings, boots | common | Forcemaster (RPG Series)
+Oriene | Full Set | helmet, chestplate, leggings, boots | common | Forcemaster (RPG Series)
+Phasleb | Full Set | helmet, chestplate, leggings, boots | common | Forcemaster (RPG Series)
+
+## Berserker (RPG Series) (4)
+
+Netherite Northling | Full Set | helmet, chestplate, leggings, boots | common | Berserker (RPG Series)
+Norse Warlord | Full Set | helmet, chestplate, leggings, boots | common | Berserker (RPG Series)
+Northling | Full Set | helmet, chestplate, leggings, boots | common | Berserker (RPG Series)
+Wildling | Full Set | helmet, chestplate, leggings, boots | common | Berserker (RPG Series)
+
+## Paladins (RPG Series) (6)
+
+Crusader | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+Netherite Crusader | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+Netherite Prior | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+Paladin | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+Priest | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+Prior | Full Set | helmet, chestplate, leggings, boots | common | Paladins (RPG Series)
+
+## Elemental Wizards (RPG Series) (10)
+
+Aqua | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Elemental Apprentice | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Hurricane | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Mountain | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Netherite Aqua | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Netherite Terra | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Netherite Wind | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Ocean | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Terra | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+Wind | Full Set | helmet, chestplate, leggings, boots | common | Elemental Wizards (RPG Series)
+
+## Witcher Class (RPG Series) (21)
+
+Enhanced Feline | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Enhanced Griffin | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Enhanced Ursine | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Enhanced Wolven | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Feline | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Grandmaster Feline | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Grandmaster Griffin | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Grandmaster Ursine | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Grandmaster Wolven | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Griffin | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Kaer Morhen | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Mastercrafted Feline | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Mastercrafted Griffin | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Mastercrafted Ursine | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Mastercrafted Wolven | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Superior Feline | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Superior Griffin | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Superior Ursine | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Superior Wolven | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Ursine | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+Wolven | Full Set | helmet, chestplate, leggings, boots | common | Witcher Class (RPG Series)
+
+------------------------------------------------------------------------
+END
+------------------------------------------------------------------------

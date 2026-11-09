@@ -1,0 +1,19 @@
+Thumbnail & 3D model files
+=========================
+Card grid (list):  thumbs/{id}.png     (Blockbench screenshot / render 512px+)
+Modal 3D viewer:   models/{id}.gltf    (or .glb)  — optional, later with Three.js
+
+Example set "Aken":
+  thumbs/aken_full_set.png
+  thumbs/aken_helmet.png
+  thumbs/aken_chestplate.png
+  thumbs/aken_leggings.png
+  thumbs/aken_boots.png
+
+  models/aken_full_set.glb
+  models/aken_helmet.glb
+  ...
+
+In database.json each item can later have:
+  "thumbnail": "thumbs/aken_chestplate.png",
+  "gltf": "models/aken_chestplate.glb"

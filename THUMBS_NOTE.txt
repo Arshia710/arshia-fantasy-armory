@@ -1,0 +1,2 @@
+Copy thumbs/ folder from Website_v6 into this site root.
+Armor rows share thumbs/{set_id}.png until per-piece Blockbench exports.
