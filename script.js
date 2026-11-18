@@ -136,17 +136,45 @@ function buildRarity() {
   RARITY_ORDER.forEach((r) => make(r, r.charAt(0).toUpperCase() + r.slice(1), false));
 }
 
+function sourcesForGroup() {
+  const set = new Set();
+  for (const item of items) {
+    if (groupFilter === "armor" && item.group !== "armor") continue;
+    if (groupFilter === "weapon" && item.group !== "weapon") continue;
+    // On All: every source
+    if (item.source) set.add(item.source);
+  }
+  return [...set].sort((a, b) => a.localeCompare(b));
+}
+
 function buildSource() {
-  const sources = [...new Set(items.map((i) => i.source).filter(Boolean))].sort();
   const sel = $("source-filter");
-  sources.forEach((s) => {
+  const prev = sourceFilter;
+  sel.innerHTML = "";
+  const all = document.createElement("option");
+  all.value = "all";
+  all.textContent = "All sources";
+  sel.appendChild(all);
+  for (const s of sourcesForGroup()) {
     const o = document.createElement("option");
     o.value = s;
     o.textContent = s;
     sel.appendChild(o);
-  });
-  sel.onchange = () => { sourceFilter = sel.value; render(); };
+  }
+  // keep selection if still valid
+  if (prev !== "all" && sourcesForGroup().includes(prev)) {
+    sel.value = prev;
+    sourceFilter = prev;
+  } else {
+    sel.value = "all";
+    sourceFilter = "all";
+  }
+  sel.onchange = () => {
+    sourceFilter = sel.value;
+    render();
+  };
 }
+
 
 document.querySelectorAll("#group-filters .group-btn").forEach((btn) => {
   btn.onclick = () => {
@@ -156,6 +184,7 @@ document.querySelectorAll("#group-filters .group-btn").forEach((btn) => {
     typeFilter = "all";
     pieceFilter = "all";
     rebuildTypeChips();
+    buildSource();
     render();
   };
 });
