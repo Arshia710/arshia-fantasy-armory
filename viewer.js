@@ -3,10 +3,17 @@ import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 
 let renderer, scene, camera, controls, currentModel, raf, host;
+let mixer = null;
+let clock = null;
 
 export function closeViewer() {
   if (raf) cancelAnimationFrame(raf);
   raf = null;
+  if (mixer) {
+    mixer.stopAllAction();
+    mixer = null;
+  }
+  clock = null;
   if (renderer) {
     renderer.dispose();
     renderer.domElement.remove();
@@ -57,11 +64,10 @@ export async function openViewer(container, gltfUrl, fallbackImg) {
   const loader = new GLTFLoader();
   const tryUrls = [];
   if (gltfUrl) tryUrls.push(gltfUrl);
-  // also try alternate extensions
   if (gltfUrl && gltfUrl.endsWith(".glb")) tryUrls.push(gltfUrl.replace(/\.glb$/i, ".gltf"));
   if (gltfUrl && gltfUrl.endsWith(".gltf")) tryUrls.push(gltfUrl.replace(/\.gltf$/i, ".glb"));
-  // unique
   const urls = [...new Set(tryUrls)];
+
   try {
     let gltf = null;
     let lastErr = null;
@@ -76,8 +82,23 @@ export async function openViewer(container, gltfUrl, fallbackImg) {
       }
     }
     if (!gltf) throw lastErr || new Error("no gltf");
+
     currentModel = gltf.scene;
     scene.add(currentModel);
+
+    // Play embedded animations (flame, etc.)
+    if (gltf.animations && gltf.animations.length > 0) {
+      mixer = new THREE.AnimationMixer(currentModel);
+      clock = new THREE.Clock();
+      for (const clip of gltf.animations) {
+        const action = mixer.clipAction(clip);
+        action.reset();
+        action.setLoop(THREE.LoopRepeat, Infinity);
+        action.play();
+      }
+      // Keep a gentle orbit; user can still drag
+      controls.autoRotateSpeed = 0.6;
+    }
 
     const box = new THREE.Box3().setFromObject(currentModel);
     const size = box.getSize(new THREE.Vector3());
@@ -103,13 +124,15 @@ export async function openViewer(container, gltfUrl, fallbackImg) {
 
   const animate = () => {
     raf = requestAnimationFrame(animate);
+    if (mixer && clock) {
+      mixer.update(clock.getDelta());
+    }
     controls?.update();
     renderer?.render(scene, camera);
   };
   animate();
 }
 
-// resize when modal open
 window.addEventListener("resize", () => {
   if (!renderer || !host || !camera) return;
   const w = host.clientWidth;
