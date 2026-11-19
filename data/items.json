@@ -19,7 +19,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/abominableblade.glb"
+    "gltf": "models/abominableblade.gltf"
   },
   {
     "id": "abominable_great_saber",
@@ -41,7 +41,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/abominablegreatsaber.glb"
+    "gltf": "models/abominablegreatsaber.gltf"
   },
   {
     "id": "abominable_scythe",
@@ -64,7 +64,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/abominablescythe.glb"
+    "gltf": "models/abominablescythe.gltf"
   },
   {
     "id": "acidic_cleaver",
@@ -86,7 +86,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/aciddemon.glb"
+    "gltf": "models/aciddemon.gltf"
   },
   {
     "id": "aeternium_kite_shield",
@@ -107,7 +107,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/aeternium_kite_shield.glb"
+    "gltf": "models/aeternium_kite_shield.gltf"
   },
   {
     "id": "amethyst_greatblade",
@@ -129,7 +129,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/amethyst_greatblade.glb"
+    "gltf": "models/amethyst_greatblade.gltf"
   },
   {
     "id": "amethyst_greatpick",
@@ -152,7 +152,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/amethyst_greatpick.glb"
+    "gltf": "models/amethyst_greatpick.gltf"
   },
   {
     "id": "amethyst_greatshovel",
@@ -173,7 +173,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/amethyst_greatshovel.glb"
+    "gltf": "models/amethyst_greatshovel.gltf"
   },
   {
     "id": "amethyst_shuriken",
@@ -195,7 +195,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/amethyst_shuriken.glb"
+    "gltf": "models/amethyst_shuriken.gltf"
   },
   {
     "id": "ancient_greatslab",
@@ -217,7 +217,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ancient_greatslab.glb"
+    "gltf": "models/ancient_greatslab.gltf"
   },
   {
     "id": "ancient_royal_great_sword",
@@ -239,7 +239,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ancient_royal_great_sword.glb"
+    "gltf": "models/ancient_royal_great_sword.gltf"
   },
   {
     "id": "aquatic_sacred_blade",
@@ -261,7 +261,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/aquantic_sacred_blade.glb"
+    "gltf": "models/aquantic_sacred_blade.gltf"
   },
   {
     "id": "arcanethyst",
@@ -284,7 +284,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/arcanethyst.glb"
+    "gltf": "models/arcanethyst.gltf"
   },
   {
     "id": "ashura_s_blade",
@@ -306,7 +306,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ashura_blade.glb"
+    "gltf": "models/ashura_blade.gltf"
   },
   {
     "id": "awakened_lichblade",
@@ -328,7 +328,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/awakened_lichblade.glb"
+    "gltf": "models/awakened_lichblade.gltf"
   },
   {
     "id": "azure_dagger",
@@ -350,7 +350,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_dagger.glb"
+    "gltf": "models/azure_dagger.gltf"
   },
   {
     "id": "azure_greataxe",
@@ -373,7 +373,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_greataxe.glb"
+    "gltf": "models/azure_greataxe.gltf"
   },
   {
     "id": "azure_greatsword",
@@ -395,7 +395,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_greatsword.glb"
+    "gltf": "models/azure_greatsword.gltf"
   },
   {
     "id": "azure_pickaxe",
@@ -418,7 +418,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_pickaxe.glb"
+    "gltf": "models/azure_pickaxe.gltf"
   },
   {
     "id": "azure_sabre",
@@ -440,7 +440,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_sabre.glb"
+    "gltf": "models/azure_sabre.gltf"
   },
   {
     "id": "azure_scythe",
@@ -463,7 +463,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_scythe.glb"
+    "gltf": "models/azure_scythe.gltf"
   },
   {
     "id": "azure_shovel",
@@ -484,7 +484,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/azure_shovel.glb"
+    "gltf": "models/azure_shovel.gltf"
   },
   {
     "id": "bastion_of_light",
@@ -505,7 +505,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/unique_shield_2.glb"
+    "gltf": "models/unique_shield_2.gltf"
   },
   {
     "id": "berserker_s_cleaver",
@@ -527,7 +527,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/berserkers_cleaver.glb"
+    "gltf": "models/berserkers_cleaver.gltf"
   },
   {
     "id": "berserker_s_greataxe",
@@ -550,7 +550,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/berserkers_greataxe.glb"
+    "gltf": "models/berserkers_greataxe.gltf"
   },
   {
     "id": "black_iron_clobberer",
@@ -573,7 +573,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/black_iron_clobberer.glb"
+    "gltf": "models/black_iron_clobberer.gltf"
   },
   {
     "id": "black_iron_greataxe",
@@ -596,7 +596,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/black_iron_greataxe.glb"
+    "gltf": "models/black_iron_greataxe.gltf"
   },
   {
     "id": "black_iron_greatsword",
@@ -618,7 +618,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/black_iron_greatsword.glb"
+    "gltf": "models/black_iron_greatsword.gltf"
   },
   {
     "id": "blood_edge",
@@ -640,7 +640,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/bloodedge.glb"
+    "gltf": "models/bloodedge.gltf"
   },
   {
     "id": "bloody_death",
@@ -663,7 +663,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/bloodydeath.glb"
+    "gltf": "models/bloodydeath.gltf"
   },
   {
     "id": "bramblethorn",
@@ -685,7 +685,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/bramblethorn.glb"
+    "gltf": "models/bramblethorn.gltf"
   },
   {
     "id": "brimstone_claymore",
@@ -707,7 +707,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/brimstone_claymore.glb"
+    "gltf": "models/brimstone_claymore.gltf"
   },
   {
     "id": "bulwark_of_azzinoth",
@@ -728,7 +728,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/unique_shield_1.glb"
+    "gltf": "models/unique_shield_1.gltf"
   },
   {
     "id": "calamity_blade",
@@ -750,7 +750,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/calamity_blade.glb"
+    "gltf": "models/calamity_blade.gltf"
   },
   {
     "id": "carian_knight_s_sword",
@@ -772,7 +772,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cariansword.glb"
+    "gltf": "models/cariansword.gltf"
   },
   {
     "id": "chrono_blade",
@@ -794,7 +794,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/chrono_blade.glb"
+    "gltf": "models/chrono_blade.gltf"
   },
   {
     "id": "cit_mjolnir",
@@ -809,14 +809,14 @@
     "pack": "other",
     "source": "Arshia Fantasy Armory",
     "rarity": "common",
-    "thumbnail": "thumbs/mjolnir.png",
+    "thumbnail": "thumbs/cit_mjolnir.png",
     "model": "minecraft:item/mjolnir",
     "models": [
       "minecraft:item/mjolnir"
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/mjolnir.glb"
+    "gltf": "models/cit_mjolnir.gltf"
   },
   {
     "id": "claymore",
@@ -838,7 +838,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/claymore.glb"
+    "gltf": "models/claymore.gltf"
   },
   {
     "id": "corrupted_mythic_blade",
@@ -860,7 +860,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/corruptedmythicblade.glb"
+    "gltf": "models/corruptedmythicblade.gltf"
   },
   {
     "id": "creation_splitter",
@@ -882,7 +882,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/creationsplitter.glb"
+    "gltf": "models/creationsplitter.gltf"
   },
   {
     "id": "crescent_greataxe",
@@ -905,7 +905,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/crescent_greataxe.glb"
+    "gltf": "models/crescent_greataxe.gltf"
   },
   {
     "id": "crescent_rose",
@@ -928,7 +928,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/crescentrose.glb"
+    "gltf": "models/crescentrose.gltf"
   },
   {
     "id": "crimson_cleaver",
@@ -950,7 +950,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/crimson_cleaver.glb"
+    "gltf": "models/crimson_cleaver.gltf"
   },
   {
     "id": "crimson_trident",
@@ -972,7 +972,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/crimson_trident.glb"
+    "gltf": "models/crimson_trident.gltf"
   },
   {
     "id": "crystal_frostblade",
@@ -994,7 +994,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/crystal_frostblade.glb"
+    "gltf": "models/crystal_frostblade.gltf"
   },
   {
     "id": "crystal_frostscythe",
@@ -1017,7 +1017,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/crystal_frostscythe.glb"
+    "gltf": "models/crystal_frostscythe.gltf"
   },
   {
     "id": "crystal_trident",
@@ -1039,7 +1039,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/crystal_trident.glb"
+    "gltf": "models/crystal_trident.gltf"
   },
   {
     "id": "cyber_katana",
@@ -1061,7 +1061,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cyberkatana.glb"
+    "gltf": "models/cyberkatana.gltf"
   },
   {
     "id": "cyber_mantis_blade",
@@ -1083,7 +1083,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cybermantisblade.glb"
+    "gltf": "models/cybermantisblade.gltf"
   },
   {
     "id": "cyber_sword",
@@ -1105,7 +1105,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cybersword.glb"
+    "gltf": "models/cybersword.gltf"
   },
   {
     "id": "cybernetic_chainsaw_blade",
@@ -1127,7 +1127,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cyberneticsawblade.glb"
+    "gltf": "models/cyberneticsawblade.gltf"
   },
   {
     "id": "cybernetic_katana",
@@ -1149,7 +1149,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cybernetickatana.glb"
+    "gltf": "models/cybernetickatana.gltf"
   },
   {
     "id": "cybernetic_knife",
@@ -1171,7 +1171,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/cyberneticknife.glb"
+    "gltf": "models/cyberneticknife.gltf"
   },
   {
     "id": "dainsleif",
@@ -1193,7 +1193,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/dainsleif.glb"
+    "gltf": "models/dainsleif.gltf"
   },
   {
     "id": "dark_blade",
@@ -1215,7 +1215,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/dark_blade.glb"
+    "gltf": "models/dark_blade.gltf"
   },
   {
     "id": "dark_cleaver",
@@ -1237,7 +1237,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/dark_cleaver.glb"
+    "gltf": "models/dark_cleaver.gltf"
   },
   {
     "id": "death_knight_s_dagger",
@@ -1259,7 +1259,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/death_knight_dagger.glb"
+    "gltf": "models/death_knight_dagger.gltf"
   },
   {
     "id": "death_knight_s_sword",
@@ -1281,7 +1281,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/death_knight_sword.glb"
+    "gltf": "models/death_knight_sword.gltf"
   },
   {
     "id": "demigod_s_unholy_blade",
@@ -1303,7 +1303,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demigodsunholyblade.glb"
+    "gltf": "models/demigodsunholyblade.gltf"
   },
   {
     "id": "demigod_s_unholy_halberd",
@@ -1326,7 +1326,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demigodsunholyhalberd.glb"
+    "gltf": "models/demigodsunholyhalberd.gltf"
   },
   {
     "id": "demon_lord_s_great_axe",
@@ -1349,7 +1349,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demonlordsgreataxe.glb"
+    "gltf": "models/demonlordsgreataxe.gltf"
   },
   {
     "id": "demon_lord_s_sword",
@@ -1371,7 +1371,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demonlordsword.glb"
+    "gltf": "models/demonlordsword.gltf"
   },
   {
     "id": "demon_s_blood_blade",
@@ -1393,7 +1393,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demons_blood_blade.glb"
+    "gltf": "models/demons_blood_blade.gltf"
   },
   {
     "id": "demon_s_blood_pick",
@@ -1416,7 +1416,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demons_blood_pick.glb"
+    "gltf": "models/demons_blood_pick.gltf"
   },
   {
     "id": "demon_s_blood_shovel",
@@ -1437,7 +1437,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demons_blood_shovel.glb"
+    "gltf": "models/demons_blood_shovel.gltf"
   },
   {
     "id": "demonic_blade",
@@ -1459,7 +1459,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demonicblade.glb"
+    "gltf": "models/demonicblade.gltf"
   },
   {
     "id": "demonic_cleaver",
@@ -1481,7 +1481,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demoniccleaver.glb"
+    "gltf": "models/demoniccleaver.gltf"
   },
   {
     "id": "demonic_sword",
@@ -1503,7 +1503,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demonic_sword.glb"
+    "gltf": "models/demonic_sword.gltf"
   },
   {
     "id": "demonslayer_s_greatsword",
@@ -1525,7 +1525,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/demonslayers_greatsword.glb"
+    "gltf": "models/demonslayers_greatsword.gltf"
   },
   {
     "id": "diamond_kite_shield",
@@ -1546,7 +1546,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/diamond_kite_shield.glb"
+    "gltf": "models/diamond_kite_shield.gltf"
   },
   {
     "id": "divine_axe_rhitta",
@@ -1569,7 +1569,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/divineaxerhitta.glb"
+    "gltf": "models/divineaxerhitta.gltf"
   },
   {
     "id": "divine_justice",
@@ -1592,7 +1592,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/divine_justice.glb"
+    "gltf": "models/divine_justice.gltf"
   },
   {
     "id": "divine_punisher",
@@ -1614,7 +1614,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/divinepunisher.glb"
+    "gltf": "models/divinepunisher.gltf"
   },
   {
     "id": "divine_reaper",
@@ -1637,7 +1637,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/divine_reaper.glb"
+    "gltf": "models/divine_reaper.gltf"
   },
   {
     "id": "dragon_slaying_blade",
@@ -1659,7 +1659,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/dragonslayingblade.glb"
+    "gltf": "models/dragonslayingblade.gltf"
   },
   {
     "id": "dragon_sword",
@@ -1681,7 +1681,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/dragon_sword.glb"
+    "gltf": "models/dragon_sword.gltf"
   },
   {
     "id": "edge_of_the_astral_plane",
@@ -1703,7 +1703,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/edgeoftheastralplane.glb"
+    "gltf": "models/edgeoftheastralplane.gltf"
   },
   {
     "id": "emberblade",
@@ -1725,7 +1725,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/emberblade.glb"
+    "gltf": "models/emberblade.gltf"
   },
   {
     "id": "emerald_greatcleaver",
@@ -1747,7 +1747,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/emerald_greatcleaver.glb"
+    "gltf": "models/emerald_greatcleaver.gltf"
   },
   {
     "id": "enigma",
@@ -1769,7 +1769,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/enigma.glb"
+    "gltf": "models/enigma.gltf"
   },
   {
     "id": "epic_sword",
@@ -1791,7 +1791,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/epicsword.glb"
+    "gltf": "models/epicsword.gltf"
   },
   {
     "id": "estoc",
@@ -1813,7 +1813,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/estoc.glb"
+    "gltf": "models/estoc.gltf"
   },
   {
     "id": "ethereal_frostblade",
@@ -1835,7 +1835,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ethereal_frostblade.glb"
+    "gltf": "models/ethereal_frostblade.gltf"
   },
   {
     "id": "fallen_god_s_spear",
@@ -1858,7 +1858,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/fallengodspear.glb"
+    "gltf": "models/fallengodspear.gltf"
   },
   {
     "id": "fallen_god_s_sword",
@@ -1880,7 +1880,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/fallengodsword.glb"
+    "gltf": "models/fallengodsword.gltf"
   },
   {
     "id": "flamberge",
@@ -1902,7 +1902,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/flamberge.glb"
+    "gltf": "models/flamberge.gltf"
   },
   {
     "id": "floral_longsword",
@@ -1924,7 +1924,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/floral_longsword.glb"
+    "gltf": "models/floral_longsword.gltf"
   },
   {
     "id": "floral_sabre",
@@ -1946,7 +1946,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/floral_sabre.glb"
+    "gltf": "models/floral_sabre.gltf"
   },
   {
     "id": "forest_guardian_s_glaive",
@@ -1969,7 +1969,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/forest_guardian_glaive.glb"
+    "gltf": "models/forest_guardian_glaive.gltf"
   },
   {
     "id": "frost_axe",
@@ -1992,7 +1992,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/frostaxe.glb"
+    "gltf": "models/frostaxe.gltf"
   },
   {
     "id": "frost_blade",
@@ -2014,7 +2014,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/frostblade.glb"
+    "gltf": "models/frostblade.gltf"
   },
   {
     "id": "frost_scythe",
@@ -2037,7 +2037,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/frostscythe.glb"
+    "gltf": "models/frostscythe.gltf"
   },
   {
     "id": "gilded_phoenix_greataxe",
@@ -2060,7 +2060,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/gilded_phoenix_greataxe.glb"
+    "gltf": "models/gilded_phoenix_greataxe.gltf"
   },
   {
     "id": "gloomsteel_greataxe",
@@ -2083,7 +2083,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/gloomsteel_greataxe.glb"
+    "gltf": "models/gloomsteel_greataxe.gltf"
   },
   {
     "id": "gloomsteel_katana",
@@ -2105,7 +2105,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/gloomsteel_katana.glb"
+    "gltf": "models/gloomsteel_katana.gltf"
   },
   {
     "id": "gloomsteel_knife",
@@ -2127,7 +2127,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/gloomsteel_knife.glb"
+    "gltf": "models/gloomsteel_knife.gltf"
   },
   {
     "id": "golden_kite_shield",
@@ -2148,7 +2148,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/golden_kite_shield.glb"
+    "gltf": "models/golden_kite_shield.gltf"
   },
   {
     "id": "gow_mjolnir",
@@ -2170,7 +2170,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/gow_mjolnir.glb"
+    "gltf": "models/gow_mjolnir.gltf"
   },
   {
     "id": "grand_claymore",
@@ -2192,7 +2192,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/grand_claymore.glb"
+    "gltf": "models/grand_claymore.gltf"
   },
   {
     "id": "hearthflame",
@@ -2215,7 +2215,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/hearthflame.glb"
+    "gltf": "models/hearthflame.gltf"
   },
   {
     "id": "heavenly_partisan",
@@ -2237,7 +2237,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/heavenly_partisan.glb"
+    "gltf": "models/heavenly_partisan.gltf"
   },
   {
     "id": "hero_sword",
@@ -2259,7 +2259,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/herosword.glb"
+    "gltf": "models/herosword.gltf"
   },
   {
     "id": "holy_moonlight_sword",
@@ -2281,7 +2281,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/holymoonlightsword.glb"
+    "gltf": "models/holymoonlightsword.gltf"
   },
   {
     "id": "hornet_s_needle",
@@ -2303,7 +2303,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/hornetsneedle.glb"
+    "gltf": "models/hornetsneedle.gltf"
   },
   {
     "id": "icewhisper",
@@ -2326,7 +2326,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/icewhisper.glb"
+    "gltf": "models/icewhisper.gltf"
   },
   {
     "id": "invisible_shield",
@@ -2347,7 +2347,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/invisible_shield.glb"
+    "gltf": "models/invisible_shield.gltf"
   },
   {
     "id": "iron_battle_axe",
@@ -2370,7 +2370,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_battle_axe.glb"
+    "gltf": "models/iron_battle_axe.gltf"
   },
   {
     "id": "iron_broadsword",
@@ -2392,7 +2392,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_broadsword.glb"
+    "gltf": "models/iron_broadsword.gltf"
   },
   {
     "id": "iron_dagger",
@@ -2414,7 +2414,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_dagger.glb"
+    "gltf": "models/iron_dagger.gltf"
   },
   {
     "id": "iron_greataxe",
@@ -2437,7 +2437,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_greataxe.glb"
+    "gltf": "models/iron_greataxe.gltf"
   },
   {
     "id": "iron_halberd",
@@ -2460,7 +2460,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_halberd.glb"
+    "gltf": "models/iron_halberd.gltf"
   },
   {
     "id": "iron_hay_sickle",
@@ -2483,7 +2483,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_hay_sickle.glb"
+    "gltf": "models/iron_hay_sickle.gltf"
   },
   {
     "id": "iron_kite_shield",
@@ -2504,7 +2504,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/iron_kite_shield.glb"
+    "gltf": "models/iron_kite_shield.gltf"
   },
   {
     "id": "iron_mace",
@@ -2527,7 +2527,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_mace.glb"
+    "gltf": "models/iron_mace.gltf"
   },
   {
     "id": "iron_polearm",
@@ -2550,7 +2550,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_polearm.glb"
+    "gltf": "models/iron_polearm.gltf"
   },
   {
     "id": "iron_sai",
@@ -2572,7 +2572,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/iron_sai.glb"
+    "gltf": "models/iron_sai.gltf"
   },
   {
     "id": "jade_halberd",
@@ -2595,7 +2595,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/jadehalberd.glb"
+    "gltf": "models/jadehalberd.gltf"
   },
   {
     "id": "katana",
@@ -2617,7 +2617,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/katana.glb"
+    "gltf": "models/katana.gltf"
   },
   {
     "id": "legendary_sword",
@@ -2639,7 +2639,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/legendarysword.glb"
+    "gltf": "models/legendarysword.gltf"
   },
   {
     "id": "longsword",
@@ -2661,7 +2661,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/longsword.glb"
+    "gltf": "models/longsword.gltf"
   },
   {
     "id": "lycanbane",
@@ -2683,7 +2683,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/lycanbane.glb"
+    "gltf": "models/lycanbane.gltf"
   },
   {
     "id": "magi_scythe",
@@ -2706,7 +2706,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/magiscythe.glb"
+    "gltf": "models/magiscythe.gltf"
   },
   {
     "id": "masamune",
@@ -2728,7 +2728,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/masamune.glb"
+    "gltf": "models/masamune.gltf"
   },
   {
     "id": "mcu_stormbreaker",
@@ -2751,7 +2751,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/mcu_stormbreaker.glb"
+    "gltf": "models/mcu_stormbreaker.gltf"
   },
   {
     "id": "mjolnir",
@@ -2774,7 +2774,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/mjolnir.glb"
+    "gltf": "models/mjolnir.gltf"
   },
   {
     "id": "molten_blade",
@@ -2796,7 +2796,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/moltenblade.glb"
+    "gltf": "models/moltenblade.gltf"
   },
   {
     "id": "molten_sword",
@@ -2818,7 +2818,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/moltensword.glb"
+    "gltf": "models/moltensword.gltf"
   },
   {
     "id": "moonlight",
@@ -2840,7 +2840,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/moonlight.glb"
+    "gltf": "models/moonlight.gltf"
   },
   {
     "id": "muramasa",
@@ -2862,7 +2862,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/muramasa.glb"
+    "gltf": "models/muramasa.gltf"
   },
   {
     "id": "mystical_spellblade",
@@ -2884,7 +2884,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/mysticalspellblade.glb"
+    "gltf": "models/mysticalspellblade.gltf"
   },
   {
     "id": "mythic_blade",
@@ -2906,7 +2906,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/mythicblade.glb"
+    "gltf": "models/mythicblade.gltf"
   },
   {
     "id": "nature_sword",
@@ -2928,7 +2928,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/nature_sword.glb"
+    "gltf": "models/nature_sword.gltf"
   },
   {
     "id": "netherite_kite_shield",
@@ -2949,7 +2949,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/netherite_kite_shield.glb"
+    "gltf": "models/netherite_kite_shield.gltf"
   },
   {
     "id": "nocturne",
@@ -2971,7 +2971,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/nocturne.glb"
+    "gltf": "models/nocturne.gltf"
   },
   {
     "id": "ocean_s_rage",
@@ -2992,7 +2992,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/aquantictrident.glb"
+    "gltf": "models/aquantictrident.gltf"
   },
   {
     "id": "oculus",
@@ -3014,7 +3014,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/oculus.glb"
+    "gltf": "models/oculus.gltf"
   },
   {
     "id": "partisan",
@@ -3037,7 +3037,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/partisan.glb"
+    "gltf": "models/partisan.gltf"
   },
   {
     "id": "phantomguard_greatsword",
@@ -3059,7 +3059,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/phantomguard_greatsword.glb"
+    "gltf": "models/phantomguard_greatsword.gltf"
   },
   {
     "id": "phantomguard_partisan",
@@ -3082,7 +3082,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/phantomguard_partisan.glb"
+    "gltf": "models/phantomguard_partisan.gltf"
   },
   {
     "id": "phantomguard_trident",
@@ -3104,7 +3104,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/phantomguard_trident.glb"
+    "gltf": "models/phantomguard_trident.gltf"
   },
   {
     "id": "pharaoh_s_treasure",
@@ -3126,7 +3126,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/pharaohs_treasure.glb"
+    "gltf": "models/pharaohs_treasure.gltf"
   },
   {
     "id": "pheonix_grace",
@@ -3148,7 +3148,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/pheonixgrace.glb"
+    "gltf": "models/pheonixgrace.gltf"
   },
   {
     "id": "piercer",
@@ -3170,7 +3170,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/piercer.glb"
+    "gltf": "models/piercer.gltf"
   },
   {
     "id": "plague_longsword",
@@ -3192,7 +3192,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/toxic_longsword.glb"
+    "gltf": "models/toxic_longsword.gltf"
   },
   {
     "id": "power_fuse_hammer",
@@ -3215,7 +3215,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/powerfusehammer.glb"
+    "gltf": "models/powerfusehammer.gltf"
   },
   {
     "id": "power_fuse_sword",
@@ -3237,7 +3237,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/powerfusesword.glb"
+    "gltf": "models/powerfusesword.gltf"
   },
   {
     "id": "ravenous_blade",
@@ -3259,7 +3259,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ravenous_blade.glb"
+    "gltf": "models/ravenous_blade.gltf"
   },
   {
     "id": "requiem_of_the_ninth_abyss",
@@ -3282,7 +3282,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/requiem_of_hell.glb"
+    "gltf": "models/requiem_of_hell.gltf"
   },
   {
     "id": "rethoughted_trident",
@@ -3304,7 +3304,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/rethoughted_trident.glb"
+    "gltf": "models/rethoughted_trident.gltf"
   },
   {
     "id": "revenant_s_darkscepter",
@@ -3327,7 +3327,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/revenants_darkscepter.glb"
+    "gltf": "models/revenants_darkscepter.gltf"
   },
   {
     "id": "revenant_s_gravecleaver",
@@ -3349,7 +3349,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/revenants_gravecleaver.glb"
+    "gltf": "models/revenants_gravecleaver.gltf"
   },
   {
     "id": "revenant_s_gravescepter",
@@ -3372,7 +3372,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/revenants_gravescepter.glb"
+    "gltf": "models/revenants_gravescepter.gltf"
   },
   {
     "id": "ribbon_cleaver",
@@ -3394,7 +3394,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/ribboncleaver.glb"
+    "gltf": "models/ribboncleaver.gltf"
   },
   {
     "id": "righteous_relic",
@@ -3416,7 +3416,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/righteous_relic.glb"
+    "gltf": "models/righteous_relic.gltf"
   },
   {
     "id": "rivers_of_blood",
@@ -3438,7 +3438,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/riversofblood.glb"
+    "gltf": "models/riversofblood.gltf"
   },
   {
     "id": "royal_chakram",
@@ -3460,7 +3460,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/royalchakram.glb"
+    "gltf": "models/royalchakram.gltf"
   },
   {
     "id": "royal_rapier",
@@ -3482,7 +3482,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/royalrapier.glb"
+    "gltf": "models/royalrapier.gltf"
   },
   {
     "id": "ruby_kite_shield",
@@ -3503,7 +3503,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/ruby_kite_shield.glb"
+    "gltf": "models/ruby_kite_shield.gltf"
   },
   {
     "id": "runic_piercer",
@@ -3525,7 +3525,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/runic_piercer.glb"
+    "gltf": "models/runic_piercer.gltf"
   },
   {
     "id": "sabre",
@@ -3547,7 +3547,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sabre.glb"
+    "gltf": "models/sabre.gltf"
   },
   {
     "id": "sacrificial_cleaver",
@@ -3569,7 +3569,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sacrificial_cleaver.glb"
+    "gltf": "models/sacrificial_cleaver.gltf"
   },
   {
     "id": "scissor_blade",
@@ -3591,7 +3591,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/scissorblade.glb"
+    "gltf": "models/scissorblade.gltf"
   },
   {
     "id": "sculk_cleaver",
@@ -3613,7 +3613,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sculkcleaver.glb"
+    "gltf": "models/sculkcleaver.gltf"
   },
   {
     "id": "sculk_scythe",
@@ -3636,7 +3636,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sculkscythe.glb"
+    "gltf": "models/sculkscythe.gltf"
   },
   {
     "id": "sculk_sword",
@@ -3658,7 +3658,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sculksword.glb"
+    "gltf": "models/sculksword.gltf"
   },
   {
     "id": "sentinel_s_will",
@@ -3681,7 +3681,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sentinels_will.glb"
+    "gltf": "models/sentinels_will.gltf"
   },
   {
     "id": "silverine_blade",
@@ -3703,7 +3703,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/silverine_blade.glb"
+    "gltf": "models/silverine_blade.gltf"
   },
   {
     "id": "skeleton_axe",
@@ -3726,7 +3726,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/skeleton_axe.glb"
+    "gltf": "models/skeleton_axe.gltf"
   },
   {
     "id": "solstice",
@@ -3748,7 +3748,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/solstice.glb"
+    "gltf": "models/solstice.gltf"
   },
   {
     "id": "soul_claws",
@@ -3770,7 +3770,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soulclaws.glb"
+    "gltf": "models/soulclaws.gltf"
   },
   {
     "id": "soul_collector",
@@ -3793,7 +3793,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soul_collector.glb"
+    "gltf": "models/soul_collector.gltf"
   },
   {
     "id": "soul_devourer",
@@ -3815,7 +3815,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soul_devourer.glb"
+    "gltf": "models/soul_devourer.gltf"
   },
   {
     "id": "soul_edge",
@@ -3837,7 +3837,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/souledge.glb"
+    "gltf": "models/souledge.gltf"
   },
   {
     "id": "soul_harvester",
@@ -3859,7 +3859,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soulharvester.glb"
+    "gltf": "models/soulharvester.gltf"
   },
   {
     "id": "soul_stealer",
@@ -3881,7 +3881,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soulstealer.glb"
+    "gltf": "models/soulstealer.gltf"
   },
   {
     "id": "soulrender",
@@ -3904,7 +3904,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/soulrender.glb"
+    "gltf": "models/soulrender.gltf"
   },
   {
     "id": "spider_sword",
@@ -3926,7 +3926,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/spider_sword.glb"
+    "gltf": "models/spider_sword.gltf"
   },
   {
     "id": "star_s_edge",
@@ -3948,7 +3948,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/stars_edge.glb"
+    "gltf": "models/stars_edge.gltf"
   },
   {
     "id": "steel_sword",
@@ -3970,7 +3970,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/steelsword.glb"
+    "gltf": "models/steelsword.gltf"
   },
   {
     "id": "stop_sign",
@@ -3993,7 +3993,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/stop_sign.glb"
+    "gltf": "models/stop_sign.gltf"
   },
   {
     "id": "storm_bringer",
@@ -4015,7 +4015,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/stormbringer.glb"
+    "gltf": "models/stormbringer.gltf"
   },
   {
     "id": "storm_s_edge",
@@ -4037,7 +4037,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/storms_edge.glb"
+    "gltf": "models/storms_edge.gltf"
   },
   {
     "id": "sunbreak",
@@ -4060,7 +4060,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/sunbreak.glb"
+    "gltf": "models/sunbreak.gltf"
   },
   {
     "id": "sword_breaker_s_bulwark",
@@ -4081,7 +4081,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/unique_shield_sw.glb"
+    "gltf": "models/unique_shield_sw.gltf"
   },
   {
     "id": "talonbrand",
@@ -4103,7 +4103,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/talonbrand.glb"
+    "gltf": "models/talonbrand.gltf"
   },
   {
     "id": "talonpick",
@@ -4126,7 +4126,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/talonpick.glb"
+    "gltf": "models/talonpick.gltf"
   },
   {
     "id": "talonshovel",
@@ -4147,7 +4147,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/talonshovel.glb"
+    "gltf": "models/talonshovel.gltf"
   },
   {
     "id": "tengen_s_blade",
@@ -4169,7 +4169,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/tengensblade.glb"
+    "gltf": "models/tengensblade.gltf"
   },
   {
     "id": "terra_blade",
@@ -4191,7 +4191,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/terrablade.glb"
+    "gltf": "models/terrablade.gltf"
   },
   {
     "id": "thousand_demon_daggers",
@@ -4213,7 +4213,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/thousanddemondaggers.glb"
+    "gltf": "models/thousanddemondaggers.gltf"
   },
   {
     "id": "thunder_bringer",
@@ -4235,7 +4235,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/thunderbringer.glb"
+    "gltf": "models/thunderbringer.gltf"
   },
   {
     "id": "thunderbrand",
@@ -4258,7 +4258,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/thunderbrand.glb"
+    "gltf": "models/thunderbrand.gltf"
   },
   {
     "id": "treacherous_axe",
@@ -4281,7 +4281,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/treacherous_axe.glb"
+    "gltf": "models/treacherous_axe.gltf"
   },
   {
     "id": "treacherous_bludgeon",
@@ -4304,7 +4304,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/treacherous_bludgeon.glb"
+    "gltf": "models/treacherous_bludgeon.gltf"
   },
   {
     "id": "treacherous_cleaver",
@@ -4326,7 +4326,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/treacherous_cleaver.glb"
+    "gltf": "models/treacherous_cleaver.gltf"
   },
   {
     "id": "true_excalibur",
@@ -4348,7 +4348,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/excalibur.glb"
+    "gltf": "models/excalibur.gltf"
   },
   {
     "id": "uchigatana",
@@ -4370,7 +4370,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/uchigatana.glb"
+    "gltf": "models/uchigatana.gltf"
   },
   {
     "id": "vaelith",
@@ -4392,7 +4392,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/vaelith.glb"
+    "gltf": "models/vaelith.gltf"
   },
   {
     "id": "valhakyra",
@@ -4414,7 +4414,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/valhakyra.glb"
+    "gltf": "models/valhakyra.gltf"
   },
   {
     "id": "valkyrie_bulwark",
@@ -4435,7 +4435,7 @@
     ],
     "namespace": "arshia_armory",
     "viewer": "3d_item",
-    "gltf": "models/aether_kite_shield.glb"
+    "gltf": "models/aether_kite_shield.gltf"
   },
   {
     "id": "vampiric_needle",
@@ -4457,7 +4457,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/vampiricneedle.glb"
+    "gltf": "models/vampiricneedle.gltf"
   },
   {
     "id": "vengeance_blade",
@@ -4479,7 +4479,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/vengeance_blade.glb"
+    "gltf": "models/vengeance_blade.gltf"
   },
   {
     "id": "vesper",
@@ -4501,7 +4501,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/vesper.glb"
+    "gltf": "models/vesper.gltf"
   },
   {
     "id": "vindicator",
@@ -4523,7 +4523,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/vindicator.glb"
+    "gltf": "models/vindicator.gltf"
   },
   {
     "id": "viridian_greataxe",
@@ -4546,7 +4546,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/viridian_greataxe.glb"
+    "gltf": "models/viridian_greataxe.gltf"
   },
   {
     "id": "viridian_pickaxe",
@@ -4569,7 +4569,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/viridian_pickaxe.glb"
+    "gltf": "models/viridian_pickaxe.gltf"
   },
   {
     "id": "viridian_shovel",
@@ -4590,7 +4590,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/viridian_shovel.glb"
+    "gltf": "models/viridian_shovel.gltf"
   },
   {
     "id": "void_oculus",
@@ -4612,7 +4612,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/void_oculus.glb"
+    "gltf": "models/void_oculus.gltf"
   },
   {
     "id": "wakizashi",
@@ -4634,7 +4634,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/wakizashi.glb"
+    "gltf": "models/wakizashi.gltf"
   },
   {
     "id": "watcher_claymore",
@@ -4656,7 +4656,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/watcher_claymore.glb"
+    "gltf": "models/watcher_claymore.gltf"
   },
   {
     "id": "watching_warglaive",
@@ -4678,7 +4678,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/watching_warglaive.glb"
+    "gltf": "models/watching_warglaive.gltf"
   },
   {
     "id": "waxweaver",
@@ -4700,7 +4700,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/waxweaver.glb"
+    "gltf": "models/waxweaver.gltf"
   },
   {
     "id": "whisperwind",
@@ -4722,7 +4722,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/whisperwind.glb"
+    "gltf": "models/whisperwind.gltf"
   },
   {
     "id": "wickpiercer",
@@ -4745,7 +4745,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/wickpiercer.glb"
+    "gltf": "models/wickpiercer.gltf"
   },
   {
     "id": "windreaper",
@@ -4768,7 +4768,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/windreaper.glb"
+    "gltf": "models/windreaper.gltf"
   },
   {
     "id": "winterthorn",
@@ -4790,7 +4790,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/winterthorn.glb"
+    "gltf": "models/winterthorn.gltf"
   },
   {
     "id": "wooden_bludgeon",
@@ -4813,7 +4813,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/wooden_bludgeon.glb"
+    "gltf": "models/wooden_bludgeon.gltf"
   },
   {
     "id": "wooden_tonfa",
@@ -4836,7 +4836,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/wooden_tonfa.glb"
+    "gltf": "models/wooden_tonfa.gltf"
   },
   {
     "id": "wraith_scythe",
@@ -4859,7 +4859,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/greenscythe.glb"
+    "gltf": "models/greenscythe.gltf"
   },
   {
     "id": "yoru",
@@ -4881,7 +4881,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/yoru.glb"
+    "gltf": "models/yoru.gltf"
   },
   {
     "id": "zenith",
@@ -4903,7 +4903,7 @@
     ],
     "namespace": "minecraft",
     "viewer": "3d_item",
-    "gltf": "models/zenith.glb"
+    "gltf": "models/zenith.gltf"
   },
   {
     "id": "absolution_robe_full_set",
@@ -4936,7 +4936,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/absolution_robe_chestplate.glb"
+    "gltf": "models/absolution_robe_chestplate.gltf"
   },
   {
     "id": "absolution_robe_helmet",
@@ -4960,7 +4960,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/absolution_robe_helmet.glb"
+    "gltf": "models/absolution_robe_helmet.gltf"
   },
   {
     "id": "absolution_robe_chestplate",
@@ -4984,7 +4984,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/absolution_robe_chestplate.glb"
+    "gltf": "models/absolution_robe_chestplate.gltf"
   },
   {
     "id": "absolution_robe_leggings",
@@ -5008,7 +5008,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/absolution_robe_leggings.glb"
+    "gltf": "models/absolution_robe_leggings.gltf"
   },
   {
     "id": "absolution_robe_boots",
@@ -5032,7 +5032,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/absolution_robe_boots.glb"
+    "gltf": "models/absolution_robe_boots.gltf"
   },
   {
     "id": "aken_full_set",
@@ -5065,7 +5065,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/aken_chestplate.glb"
+    "gltf": "models/aken_chestplate.gltf"
   },
   {
     "id": "aken_helmet",
@@ -5089,7 +5089,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/aken_helmet.glb"
+    "gltf": "models/aken_helmet.gltf"
   },
   {
     "id": "aken_chestplate",
@@ -5113,7 +5113,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/aken_chestplate.glb"
+    "gltf": "models/aken_chestplate.gltf"
   },
   {
     "id": "aken_leggings",
@@ -5137,7 +5137,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/aken_leggings.glb"
+    "gltf": "models/aken_leggings.gltf"
   },
   {
     "id": "aken_boots",
@@ -5161,7 +5161,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/aken_boots.glb"
+    "gltf": "models/aken_boots.gltf"
   },
   {
     "id": "aqua_full_set",
@@ -5194,7 +5194,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/aqua_chestplate.glb"
+    "gltf": "models/aqua_chestplate.gltf"
   },
   {
     "id": "aqua_helmet",
@@ -5218,7 +5218,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/aqua_helmet.glb"
+    "gltf": "models/aqua_helmet.gltf"
   },
   {
     "id": "aqua_chestplate",
@@ -5242,7 +5242,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/aqua_chestplate.glb"
+    "gltf": "models/aqua_chestplate.gltf"
   },
   {
     "id": "aqua_leggings",
@@ -5266,7 +5266,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/aqua_leggings.glb"
+    "gltf": "models/aqua_leggings.gltf"
   },
   {
     "id": "aqua_boots",
@@ -5290,7 +5290,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/aqua_boots.glb"
+    "gltf": "models/aqua_boots.gltf"
   },
   {
     "id": "archer_full_set",
@@ -5323,7 +5323,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/archer_chestplate.glb"
+    "gltf": "models/archer_chestplate.gltf"
   },
   {
     "id": "archer_helmet",
@@ -5347,7 +5347,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/archer_helmet.glb"
+    "gltf": "models/archer_helmet.gltf"
   },
   {
     "id": "archer_chestplate",
@@ -5371,7 +5371,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/archer_chestplate.glb"
+    "gltf": "models/archer_chestplate.gltf"
   },
   {
     "id": "archer_leggings",
@@ -5395,7 +5395,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/archer_leggings.glb"
+    "gltf": "models/archer_leggings.gltf"
   },
   {
     "id": "archer_boots",
@@ -5419,7 +5419,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/archer_boots.glb"
+    "gltf": "models/archer_boots.gltf"
   },
   {
     "id": "assassin_full_set",
@@ -5452,7 +5452,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/assassin_chestplate.glb"
+    "gltf": "models/assassin_chestplate.gltf"
   },
   {
     "id": "assassin_helmet",
@@ -5476,7 +5476,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/assassin_helmet.glb"
+    "gltf": "models/assassin_helmet.gltf"
   },
   {
     "id": "assassin_chestplate",
@@ -5500,7 +5500,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/assassin_chestplate.glb"
+    "gltf": "models/assassin_chestplate.gltf"
   },
   {
     "id": "assassin_leggings",
@@ -5524,7 +5524,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/assassin_leggings.glb"
+    "gltf": "models/assassin_leggings.gltf"
   },
   {
     "id": "assassin_boots",
@@ -5548,7 +5548,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/assassin_boots.glb"
+    "gltf": "models/assassin_boots.gltf"
   },
   {
     "id": "avatar_robe_full_set",
@@ -5581,7 +5581,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/avatar_robe_chestplate.glb"
+    "gltf": "models/avatar_robe_chestplate.gltf"
   },
   {
     "id": "avatar_robe_helmet",
@@ -5605,7 +5605,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/avatar_robe_helmet.glb"
+    "gltf": "models/avatar_robe_helmet.gltf"
   },
   {
     "id": "avatar_robe_chestplate",
@@ -5629,7 +5629,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/avatar_robe_chestplate.glb"
+    "gltf": "models/avatar_robe_chestplate.gltf"
   },
   {
     "id": "avatar_robe_leggings",
@@ -5653,7 +5653,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/avatar_robe_leggings.glb"
+    "gltf": "models/avatar_robe_leggings.gltf"
   },
   {
     "id": "avatar_robe_boots",
@@ -5677,7 +5677,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/avatar_robe_boots.glb"
+    "gltf": "models/avatar_robe_boots.gltf"
   },
   {
     "id": "berserker_full_set",
@@ -5710,7 +5710,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/berserker_chestplate.glb"
+    "gltf": "models/berserker_chestplate.gltf"
   },
   {
     "id": "berserker_helmet",
@@ -5734,7 +5734,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/berserker_helmet.glb"
+    "gltf": "models/berserker_helmet.gltf"
   },
   {
     "id": "berserker_chestplate",
@@ -5758,7 +5758,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/berserker_chestplate.glb"
+    "gltf": "models/berserker_chestplate.gltf"
   },
   {
     "id": "berserker_leggings",
@@ -5782,7 +5782,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/berserker_leggings.glb"
+    "gltf": "models/berserker_leggings.gltf"
   },
   {
     "id": "berserker_boots",
@@ -5806,7 +5806,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/berserker_boots.glb"
+    "gltf": "models/berserker_boots.gltf"
   },
   {
     "id": "billporon_full_set",
@@ -5839,7 +5839,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/billporon_chestplate.glb"
+    "gltf": "models/billporon_chestplate.gltf"
   },
   {
     "id": "billporon_helmet",
@@ -5863,7 +5863,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/billporon_helmet.glb"
+    "gltf": "models/billporon_helmet.gltf"
   },
   {
     "id": "billporon_chestplate",
@@ -5887,7 +5887,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/billporon_chestplate.glb"
+    "gltf": "models/billporon_chestplate.gltf"
   },
   {
     "id": "billporon_leggings",
@@ -5911,7 +5911,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/billporon_leggings.glb"
+    "gltf": "models/billporon_leggings.gltf"
   },
   {
     "id": "billporon_boots",
@@ -5935,7 +5935,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/billporon_boots.glb"
+    "gltf": "models/billporon_boots.gltf"
   },
   {
     "id": "blightbringer_full_set",
@@ -5968,7 +5968,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/blightbringer_chestplate.glb"
+    "gltf": "models/blightbringer_chestplate.gltf"
   },
   {
     "id": "blightbringer_helmet",
@@ -5992,7 +5992,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/blightbringer_helmet.glb"
+    "gltf": "models/blightbringer_helmet.gltf"
   },
   {
     "id": "blightbringer_chestplate",
@@ -6016,7 +6016,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/blightbringer_chestplate.glb"
+    "gltf": "models/blightbringer_chestplate.gltf"
   },
   {
     "id": "blightbringer_leggings",
@@ -6040,7 +6040,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/blightbringer_leggings.glb"
+    "gltf": "models/blightbringer_leggings.gltf"
   },
   {
     "id": "blightbringer_boots",
@@ -6064,7 +6064,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/blightbringer_boots.glb"
+    "gltf": "models/blightbringer_boots.gltf"
   },
   {
     "id": "bounty_hunter_full_set",
@@ -6097,7 +6097,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/bounty_hunter_chestplate.glb"
+    "gltf": "models/bounty_hunter_chestplate.gltf"
   },
   {
     "id": "bounty_hunter_helmet",
@@ -6121,7 +6121,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/bounty_hunter_helmet.glb"
+    "gltf": "models/bounty_hunter_helmet.gltf"
   },
   {
     "id": "bounty_hunter_chestplate",
@@ -6145,7 +6145,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/bounty_hunter_chestplate.glb"
+    "gltf": "models/bounty_hunter_chestplate.gltf"
   },
   {
     "id": "bounty_hunter_leggings",
@@ -6169,7 +6169,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/bounty_hunter_leggings.glb"
+    "gltf": "models/bounty_hunter_leggings.gltf"
   },
   {
     "id": "bounty_hunter_boots",
@@ -6193,7 +6193,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/bounty_hunter_boots.glb"
+    "gltf": "models/bounty_hunter_boots.gltf"
   },
   {
     "id": "chess_board_knight_full_set",
@@ -6226,7 +6226,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/chess_board_knight_chestplate.glb"
+    "gltf": "models/chess_board_knight_chestplate.gltf"
   },
   {
     "id": "chess_board_knight_helmet",
@@ -6250,7 +6250,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/chess_board_knight_helmet.glb"
+    "gltf": "models/chess_board_knight_helmet.gltf"
   },
   {
     "id": "chess_board_knight_chestplate",
@@ -6274,7 +6274,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/chess_board_knight_chestplate.glb"
+    "gltf": "models/chess_board_knight_chestplate.gltf"
   },
   {
     "id": "chess_board_knight_leggings",
@@ -6298,7 +6298,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/chess_board_knight_leggings.glb"
+    "gltf": "models/chess_board_knight_leggings.gltf"
   },
   {
     "id": "chess_board_knight_boots",
@@ -6322,7 +6322,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/chess_board_knight_boots.glb"
+    "gltf": "models/chess_board_knight_boots.gltf"
   },
   {
     "id": "crimson_guard_full_set",
@@ -6355,7 +6355,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/crimson_guard_chestplate.glb"
+    "gltf": "models/crimson_guard_chestplate.gltf"
   },
   {
     "id": "crimson_guard_helmet",
@@ -6379,7 +6379,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/crimson_guard_helmet.glb"
+    "gltf": "models/crimson_guard_helmet.gltf"
   },
   {
     "id": "crimson_guard_chestplate",
@@ -6403,7 +6403,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/crimson_guard_chestplate.glb"
+    "gltf": "models/crimson_guard_chestplate.gltf"
   },
   {
     "id": "crimson_guard_leggings",
@@ -6427,7 +6427,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/crimson_guard_leggings.glb"
+    "gltf": "models/crimson_guard_leggings.gltf"
   },
   {
     "id": "crimson_guard_boots",
@@ -6451,7 +6451,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/crimson_guard_boots.glb"
+    "gltf": "models/crimson_guard_boots.gltf"
   },
   {
     "id": "crimson_knight_full_set",
@@ -6484,7 +6484,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/crimson_knight_chestplate.glb"
+    "gltf": "models/crimson_knight_chestplate.gltf"
   },
   {
     "id": "crimson_knight_helmet",
@@ -6508,7 +6508,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/crimson_knight_helmet.glb"
+    "gltf": "models/crimson_knight_helmet.gltf"
   },
   {
     "id": "crimson_knight_chestplate",
@@ -6532,7 +6532,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/crimson_knight_chestplate.glb"
+    "gltf": "models/crimson_knight_chestplate.gltf"
   },
   {
     "id": "crimson_knight_leggings",
@@ -6556,7 +6556,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/crimson_knight_leggings.glb"
+    "gltf": "models/crimson_knight_leggings.gltf"
   },
   {
     "id": "crimson_knight_boots",
@@ -6580,7 +6580,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/crimson_knight_boots.glb"
+    "gltf": "models/crimson_knight_boots.gltf"
   },
   {
     "id": "crucible_knight_full_set",
@@ -6613,7 +6613,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/crucible_knight_chestplate.glb"
+    "gltf": "models/crucible_knight_chestplate.gltf"
   },
   {
     "id": "crucible_knight_helmet",
@@ -6637,7 +6637,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/crucible_knight_helmet.glb"
+    "gltf": "models/crucible_knight_helmet.gltf"
   },
   {
     "id": "crucible_knight_chestplate",
@@ -6661,7 +6661,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/crucible_knight_chestplate.glb"
+    "gltf": "models/crucible_knight_chestplate.gltf"
   },
   {
     "id": "crucible_knight_leggings",
@@ -6685,7 +6685,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/crucible_knight_leggings.glb"
+    "gltf": "models/crucible_knight_leggings.gltf"
   },
   {
     "id": "crucible_knight_boots",
@@ -6709,7 +6709,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/crucible_knight_boots.glb"
+    "gltf": "models/crucible_knight_boots.gltf"
   },
   {
     "id": "crusader_full_set",
@@ -6742,7 +6742,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/crusader_chestplate.glb"
+    "gltf": "models/crusader_chestplate.gltf"
   },
   {
     "id": "crusader_helmet",
@@ -6766,7 +6766,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/crusader_helmet.glb"
+    "gltf": "models/crusader_helmet.gltf"
   },
   {
     "id": "crusader_chestplate",
@@ -6790,7 +6790,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/crusader_chestplate.glb"
+    "gltf": "models/crusader_chestplate.gltf"
   },
   {
     "id": "crusader_leggings",
@@ -6814,7 +6814,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/crusader_leggings.glb"
+    "gltf": "models/crusader_leggings.gltf"
   },
   {
     "id": "crusader_boots",
@@ -6838,7 +6838,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/crusader_boots.glb"
+    "gltf": "models/crusader_boots.gltf"
   },
   {
     "id": "dark_cover_full_set",
@@ -6871,7 +6871,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/dark_cover_chestplate.glb"
+    "gltf": "models/dark_cover_chestplate.gltf"
   },
   {
     "id": "dark_cover_helmet",
@@ -6895,7 +6895,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/dark_cover_helmet.glb"
+    "gltf": "models/dark_cover_helmet.gltf"
   },
   {
     "id": "dark_cover_chestplate",
@@ -6919,7 +6919,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/dark_cover_chestplate.glb"
+    "gltf": "models/dark_cover_chestplate.gltf"
   },
   {
     "id": "dark_cover_leggings",
@@ -6943,7 +6943,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/dark_cover_leggings.glb"
+    "gltf": "models/dark_cover_leggings.gltf"
   },
   {
     "id": "dark_cover_boots",
@@ -6967,7 +6967,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/dark_cover_boots.glb"
+    "gltf": "models/dark_cover_boots.gltf"
   },
   {
     "id": "dark_lord_full_set",
@@ -7000,7 +7000,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/dark_lord_chestplate.glb"
+    "gltf": "models/dark_lord_chestplate.gltf"
   },
   {
     "id": "dark_lord_helmet",
@@ -7024,7 +7024,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/dark_lord_helmet.glb"
+    "gltf": "models/dark_lord_helmet.gltf"
   },
   {
     "id": "dark_lord_chestplate",
@@ -7048,7 +7048,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/dark_lord_chestplate.glb"
+    "gltf": "models/dark_lord_chestplate.gltf"
   },
   {
     "id": "dark_lord_leggings",
@@ -7072,7 +7072,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/dark_lord_leggings.glb"
+    "gltf": "models/dark_lord_leggings.gltf"
   },
   {
     "id": "dark_lord_boots",
@@ -7096,7 +7096,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/dark_lord_boots.glb"
+    "gltf": "models/dark_lord_boots.gltf"
   },
   {
     "id": "dead_gladiator_full_set",
@@ -7129,7 +7129,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/dead_gladiator_chestplate.glb"
+    "gltf": "models/dead_gladiator_chestplate.gltf"
   },
   {
     "id": "dead_gladiator_helmet",
@@ -7153,7 +7153,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/dead_gladiator_helmet.glb"
+    "gltf": "models/dead_gladiator_helmet.gltf"
   },
   {
     "id": "dead_gladiator_chestplate",
@@ -7177,7 +7177,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/dead_gladiator_chestplate.glb"
+    "gltf": "models/dead_gladiator_chestplate.gltf"
   },
   {
     "id": "dead_gladiator_leggings",
@@ -7201,7 +7201,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/dead_gladiator_leggings.glb"
+    "gltf": "models/dead_gladiator_leggings.gltf"
   },
   {
     "id": "dead_gladiator_boots",
@@ -7225,7 +7225,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/dead_gladiator_boots.glb"
+    "gltf": "models/dead_gladiator_boots.gltf"
   },
   {
     "id": "deadeye_full_set",
@@ -7258,7 +7258,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/deadeye_chestplate.glb"
+    "gltf": "models/deadeye_chestplate.gltf"
   },
   {
     "id": "deadeye_helmet",
@@ -7282,7 +7282,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/deadeye_helmet.glb"
+    "gltf": "models/deadeye_helmet.gltf"
   },
   {
     "id": "deadeye_chestplate",
@@ -7306,7 +7306,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/deadeye_chestplate.glb"
+    "gltf": "models/deadeye_chestplate.gltf"
   },
   {
     "id": "deadeye_leggings",
@@ -7330,7 +7330,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/deadeye_leggings.glb"
+    "gltf": "models/deadeye_leggings.gltf"
   },
   {
     "id": "deadeye_boots",
@@ -7354,7 +7354,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/deadeye_boots.glb"
+    "gltf": "models/deadeye_boots.gltf"
   },
   {
     "id": "deathmantle_armor_full_set",
@@ -7387,7 +7387,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/deathmantle_armor_chestplate.glb"
+    "gltf": "models/deathmantle_armor_chestplate.gltf"
   },
   {
     "id": "deathmantle_armor_helmet",
@@ -7411,7 +7411,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/deathmantle_armor_helmet.glb"
+    "gltf": "models/deathmantle_armor_helmet.gltf"
   },
   {
     "id": "deathmantle_armor_chestplate",
@@ -7435,7 +7435,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/deathmantle_armor_chestplate.glb"
+    "gltf": "models/deathmantle_armor_chestplate.gltf"
   },
   {
     "id": "deathmantle_armor_leggings",
@@ -7459,7 +7459,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/deathmantle_armor_leggings.glb"
+    "gltf": "models/deathmantle_armor_leggings.gltf"
   },
   {
     "id": "deathmantle_armor_boots",
@@ -7483,7 +7483,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/deathmantle_armor_boots.glb"
+    "gltf": "models/deathmantle_armor_boots.gltf"
   },
   {
     "id": "destroyer_armor_full_set",
@@ -7516,7 +7516,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/destroyer_armor_chestplate.glb"
+    "gltf": "models/destroyer_armor_chestplate.gltf"
   },
   {
     "id": "destroyer_armor_helmet",
@@ -7540,7 +7540,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/destroyer_armor_helmet.glb"
+    "gltf": "models/destroyer_armor_helmet.gltf"
   },
   {
     "id": "destroyer_armor_chestplate",
@@ -7564,7 +7564,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/destroyer_armor_chestplate.glb"
+    "gltf": "models/destroyer_armor_chestplate.gltf"
   },
   {
     "id": "destroyer_armor_leggings",
@@ -7588,7 +7588,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/destroyer_armor_leggings.glb"
+    "gltf": "models/destroyer_armor_leggings.gltf"
   },
   {
     "id": "destroyer_armor_boots",
@@ -7612,7 +7612,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/destroyer_armor_boots.glb"
+    "gltf": "models/destroyer_armor_boots.gltf"
   },
   {
     "id": "dragonslayer_full_set",
@@ -7645,7 +7645,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/dragonslayer_chestplate.glb"
+    "gltf": "models/dragonslayer_chestplate.gltf"
   },
   {
     "id": "dragonslayer_helmet",
@@ -7669,7 +7669,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/dragonslayer_helmet.glb"
+    "gltf": "models/dragonslayer_helmet.gltf"
   },
   {
     "id": "dragonslayer_chestplate",
@@ -7693,7 +7693,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/dragonslayer_chestplate.glb"
+    "gltf": "models/dragonslayer_chestplate.gltf"
   },
   {
     "id": "dragonslayer_leggings",
@@ -7717,7 +7717,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/dragonslayer_leggings.glb"
+    "gltf": "models/dragonslayer_leggings.gltf"
   },
   {
     "id": "dragonslayer_boots",
@@ -7741,7 +7741,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/dragonslayer_boots.glb"
+    "gltf": "models/dragonslayer_boots.gltf"
   },
   {
     "id": "eclipse_soldier_full_set",
@@ -7774,7 +7774,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/eclipse_soldier_chestplate.glb"
+    "gltf": "models/eclipse_soldier_chestplate.gltf"
   },
   {
     "id": "eclipse_soldier_helmet",
@@ -7798,7 +7798,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/eclipse_soldier_helmet.glb"
+    "gltf": "models/eclipse_soldier_helmet.gltf"
   },
   {
     "id": "eclipse_soldier_chestplate",
@@ -7822,7 +7822,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/eclipse_soldier_chestplate.glb"
+    "gltf": "models/eclipse_soldier_chestplate.gltf"
   },
   {
     "id": "eclipse_soldier_leggings",
@@ -7846,7 +7846,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/eclipse_soldier_leggings.glb"
+    "gltf": "models/eclipse_soldier_leggings.gltf"
   },
   {
     "id": "eclipse_soldier_boots",
@@ -7870,7 +7870,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/eclipse_soldier_boots.glb"
+    "gltf": "models/eclipse_soldier_boots.gltf"
   },
   {
     "id": "elemental_apprentice_full_set",
@@ -7903,7 +7903,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/elemental_apprentice_chestplate.glb"
+    "gltf": "models/elemental_apprentice_chestplate.gltf"
   },
   {
     "id": "elemental_apprentice_helmet",
@@ -7927,7 +7927,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/elemental_apprentice_helmet.glb"
+    "gltf": "models/elemental_apprentice_helmet.gltf"
   },
   {
     "id": "elemental_apprentice_chestplate",
@@ -7951,7 +7951,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/elemental_apprentice_chestplate.glb"
+    "gltf": "models/elemental_apprentice_chestplate.gltf"
   },
   {
     "id": "elemental_apprentice_leggings",
@@ -7975,7 +7975,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/elemental_apprentice_leggings.glb"
+    "gltf": "models/elemental_apprentice_leggings.gltf"
   },
   {
     "id": "elemental_apprentice_boots",
@@ -7999,7 +7999,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/elemental_apprentice_boots.glb"
+    "gltf": "models/elemental_apprentice_boots.gltf"
   },
   {
     "id": "enhanced_feline_full_set",
@@ -8032,7 +8032,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/enhanced_feline_chestplate.glb"
+    "gltf": "models/enhanced_feline_chestplate.gltf"
   },
   {
     "id": "enhanced_feline_helmet",
@@ -8056,7 +8056,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/enhanced_feline_helmet.glb"
+    "gltf": "models/enhanced_feline_helmet.gltf"
   },
   {
     "id": "enhanced_feline_chestplate",
@@ -8080,7 +8080,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/enhanced_feline_chestplate.glb"
+    "gltf": "models/enhanced_feline_chestplate.gltf"
   },
   {
     "id": "enhanced_feline_leggings",
@@ -8104,7 +8104,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/enhanced_feline_leggings.glb"
+    "gltf": "models/enhanced_feline_leggings.gltf"
   },
   {
     "id": "enhanced_feline_boots",
@@ -8128,7 +8128,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/enhanced_feline_boots.glb"
+    "gltf": "models/enhanced_feline_boots.gltf"
   },
   {
     "id": "enhanced_griffin_full_set",
@@ -8161,7 +8161,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/enhanced_griffin_chestplate.glb"
+    "gltf": "models/enhanced_griffin_chestplate.gltf"
   },
   {
     "id": "enhanced_griffin_helmet",
@@ -8185,7 +8185,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/enhanced_griffin_helmet.glb"
+    "gltf": "models/enhanced_griffin_helmet.gltf"
   },
   {
     "id": "enhanced_griffin_chestplate",
@@ -8209,7 +8209,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/enhanced_griffin_chestplate.glb"
+    "gltf": "models/enhanced_griffin_chestplate.gltf"
   },
   {
     "id": "enhanced_griffin_leggings",
@@ -8233,7 +8233,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/enhanced_griffin_leggings.glb"
+    "gltf": "models/enhanced_griffin_leggings.gltf"
   },
   {
     "id": "enhanced_griffin_boots",
@@ -8257,7 +8257,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/enhanced_griffin_boots.glb"
+    "gltf": "models/enhanced_griffin_boots.gltf"
   },
   {
     "id": "enhanced_ursine_full_set",
@@ -8290,7 +8290,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/enhanced_ursine_chestplate.glb"
+    "gltf": "models/enhanced_ursine_chestplate.gltf"
   },
   {
     "id": "enhanced_ursine_helmet",
@@ -8314,7 +8314,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/enhanced_ursine_helmet.glb"
+    "gltf": "models/enhanced_ursine_helmet.gltf"
   },
   {
     "id": "enhanced_ursine_chestplate",
@@ -8338,7 +8338,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/enhanced_ursine_chestplate.glb"
+    "gltf": "models/enhanced_ursine_chestplate.gltf"
   },
   {
     "id": "enhanced_ursine_leggings",
@@ -8362,7 +8362,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/enhanced_ursine_leggings.glb"
+    "gltf": "models/enhanced_ursine_leggings.gltf"
   },
   {
     "id": "enhanced_ursine_boots",
@@ -8386,7 +8386,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/enhanced_ursine_boots.glb"
+    "gltf": "models/enhanced_ursine_boots.gltf"
   },
   {
     "id": "enhanced_wolven_full_set",
@@ -8419,7 +8419,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/enhanced_wolven_chestplate.glb"
+    "gltf": "models/enhanced_wolven_chestplate.gltf"
   },
   {
     "id": "enhanced_wolven_helmet",
@@ -8443,7 +8443,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/enhanced_wolven_helmet.glb"
+    "gltf": "models/enhanced_wolven_helmet.gltf"
   },
   {
     "id": "enhanced_wolven_chestplate",
@@ -8467,7 +8467,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/enhanced_wolven_chestplate.glb"
+    "gltf": "models/enhanced_wolven_chestplate.gltf"
   },
   {
     "id": "enhanced_wolven_leggings",
@@ -8491,7 +8491,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/enhanced_wolven_leggings.glb"
+    "gltf": "models/enhanced_wolven_leggings.gltf"
   },
   {
     "id": "enhanced_wolven_boots",
@@ -8515,7 +8515,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/enhanced_wolven_boots.glb"
+    "gltf": "models/enhanced_wolven_boots.gltf"
   },
   {
     "id": "evening_ghost_full_set",
@@ -8548,7 +8548,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/evening_ghost_chestplate.glb"
+    "gltf": "models/evening_ghost_chestplate.gltf"
   },
   {
     "id": "evening_ghost_helmet",
@@ -8572,7 +8572,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/evening_ghost_helmet.glb"
+    "gltf": "models/evening_ghost_helmet.gltf"
   },
   {
     "id": "evening_ghost_chestplate",
@@ -8596,7 +8596,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/evening_ghost_chestplate.glb"
+    "gltf": "models/evening_ghost_chestplate.gltf"
   },
   {
     "id": "evening_ghost_leggings",
@@ -8620,7 +8620,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/evening_ghost_leggings.glb"
+    "gltf": "models/evening_ghost_leggings.gltf"
   },
   {
     "id": "evening_ghost_boots",
@@ -8644,7 +8644,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/evening_ghost_boots.glb"
+    "gltf": "models/evening_ghost_boots.gltf"
   },
   {
     "id": "feline_full_set",
@@ -8677,7 +8677,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/feline_chestplate.glb"
+    "gltf": "models/feline_chestplate.gltf"
   },
   {
     "id": "feline_helmet",
@@ -8701,7 +8701,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/feline_helmet.glb"
+    "gltf": "models/feline_helmet.gltf"
   },
   {
     "id": "feline_chestplate",
@@ -8725,7 +8725,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/feline_chestplate.glb"
+    "gltf": "models/feline_chestplate.gltf"
   },
   {
     "id": "feline_leggings",
@@ -8749,7 +8749,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/feline_leggings.glb"
+    "gltf": "models/feline_leggings.gltf"
   },
   {
     "id": "feline_boots",
@@ -8773,7 +8773,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/feline_boots.glb"
+    "gltf": "models/feline_boots.gltf"
   },
   {
     "id": "flesh_of_the_feaster_full_set",
@@ -8806,7 +8806,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/flesh_of_the_feaster_chestplate.glb"
+    "gltf": "models/flesh_of_the_feaster_chestplate.gltf"
   },
   {
     "id": "flesh_of_the_feaster_helmet",
@@ -8830,7 +8830,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/flesh_of_the_feaster_helmet.glb"
+    "gltf": "models/flesh_of_the_feaster_helmet.gltf"
   },
   {
     "id": "flesh_of_the_feaster_chestplate",
@@ -8854,7 +8854,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/flesh_of_the_feaster_chestplate.glb"
+    "gltf": "models/flesh_of_the_feaster_chestplate.gltf"
   },
   {
     "id": "flesh_of_the_feaster_leggings",
@@ -8878,7 +8878,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/flesh_of_the_feaster_leggings.glb"
+    "gltf": "models/flesh_of_the_feaster_leggings.gltf"
   },
   {
     "id": "flesh_of_the_feaster_boots",
@@ -8902,7 +8902,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/flesh_of_the_feaster_boots.glb"
+    "gltf": "models/flesh_of_the_feaster_boots.gltf"
   },
   {
     "id": "fog_guard_full_set",
@@ -8935,7 +8935,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/fog_guard_chestplate.glb"
+    "gltf": "models/fog_guard_chestplate.gltf"
   },
   {
     "id": "fog_guard_helmet",
@@ -8959,7 +8959,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/fog_guard_helmet.glb"
+    "gltf": "models/fog_guard_helmet.gltf"
   },
   {
     "id": "fog_guard_chestplate",
@@ -8983,7 +8983,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/fog_guard_chestplate.glb"
+    "gltf": "models/fog_guard_chestplate.gltf"
   },
   {
     "id": "fog_guard_leggings",
@@ -9007,7 +9007,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/fog_guard_leggings.glb"
+    "gltf": "models/fog_guard_leggings.gltf"
   },
   {
     "id": "fog_guard_boots",
@@ -9031,7 +9031,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/fog_guard_boots.glb"
+    "gltf": "models/fog_guard_boots.gltf"
   },
   {
     "id": "forgotten_trace_full_set",
@@ -9064,7 +9064,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/forgotten_trace_chestplate.glb"
+    "gltf": "models/forgotten_trace_chestplate.gltf"
   },
   {
     "id": "forgotten_trace_helmet",
@@ -9088,7 +9088,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/forgotten_trace_helmet.glb"
+    "gltf": "models/forgotten_trace_helmet.gltf"
   },
   {
     "id": "forgotten_trace_chestplate",
@@ -9112,7 +9112,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/forgotten_trace_chestplate.glb"
+    "gltf": "models/forgotten_trace_chestplate.gltf"
   },
   {
     "id": "forgotten_trace_leggings",
@@ -9136,7 +9136,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/forgotten_trace_leggings.glb"
+    "gltf": "models/forgotten_trace_leggings.gltf"
   },
   {
     "id": "forgotten_trace_boots",
@@ -9160,7 +9160,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/forgotten_trace_boots.glb"
+    "gltf": "models/forgotten_trace_boots.gltf"
   },
   {
     "id": "frozen_champion_full_set",
@@ -9193,7 +9193,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/frozen_champion_chestplate.glb"
+    "gltf": "models/frozen_champion_chestplate.gltf"
   },
   {
     "id": "frozen_champion_helmet",
@@ -9217,7 +9217,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/frozen_champion_helmet.glb"
+    "gltf": "models/frozen_champion_helmet.gltf"
   },
   {
     "id": "frozen_champion_chestplate",
@@ -9241,7 +9241,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/frozen_champion_chestplate.glb"
+    "gltf": "models/frozen_champion_chestplate.gltf"
   },
   {
     "id": "frozen_champion_leggings",
@@ -9265,7 +9265,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/frozen_champion_leggings.glb"
+    "gltf": "models/frozen_champion_leggings.gltf"
   },
   {
     "id": "frozen_champion_boots",
@@ -9289,7 +9289,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/frozen_champion_boots.glb"
+    "gltf": "models/frozen_champion_boots.gltf"
   },
   {
     "id": "gilded_hunt_full_set",
@@ -9322,7 +9322,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/gilded_hunt_chestplate.glb"
+    "gltf": "models/gilded_hunt_chestplate.gltf"
   },
   {
     "id": "gilded_hunt_helmet",
@@ -9346,7 +9346,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/gilded_hunt_helmet.glb"
+    "gltf": "models/gilded_hunt_helmet.gltf"
   },
   {
     "id": "gilded_hunt_chestplate",
@@ -9370,7 +9370,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/gilded_hunt_chestplate.glb"
+    "gltf": "models/gilded_hunt_chestplate.gltf"
   },
   {
     "id": "gilded_hunt_leggings",
@@ -9394,7 +9394,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/gilded_hunt_leggings.glb"
+    "gltf": "models/gilded_hunt_leggings.gltf"
   },
   {
     "id": "gilded_hunt_boots",
@@ -9418,7 +9418,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/gilded_hunt_boots.glb"
+    "gltf": "models/gilded_hunt_boots.gltf"
   },
   {
     "id": "golden_execution_full_set",
@@ -9451,7 +9451,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/golden_execution_chestplate.glb"
+    "gltf": "models/golden_execution_chestplate.gltf"
   },
   {
     "id": "golden_execution_helmet",
@@ -9475,7 +9475,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/golden_execution_helmet.glb"
+    "gltf": "models/golden_execution_helmet.gltf"
   },
   {
     "id": "golden_execution_chestplate",
@@ -9499,7 +9499,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/golden_execution_chestplate.glb"
+    "gltf": "models/golden_execution_chestplate.gltf"
   },
   {
     "id": "golden_execution_leggings",
@@ -9523,7 +9523,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/golden_execution_leggings.glb"
+    "gltf": "models/golden_execution_leggings.gltf"
   },
   {
     "id": "golden_execution_boots",
@@ -9547,7 +9547,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/golden_execution_boots.glb"
+    "gltf": "models/golden_execution_boots.gltf"
   },
   {
     "id": "golden_horns_full_set",
@@ -9580,7 +9580,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/golden_horns_chestplate.glb"
+    "gltf": "models/golden_horns_chestplate.gltf"
   },
   {
     "id": "golden_horns_helmet",
@@ -9604,7 +9604,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/golden_horns_helmet.glb"
+    "gltf": "models/golden_horns_helmet.gltf"
   },
   {
     "id": "golden_horns_chestplate",
@@ -9628,7 +9628,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/golden_horns_chestplate.glb"
+    "gltf": "models/golden_horns_chestplate.gltf"
   },
   {
     "id": "golden_horns_leggings",
@@ -9652,7 +9652,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/golden_horns_leggings.glb"
+    "gltf": "models/golden_horns_leggings.gltf"
   },
   {
     "id": "golden_horns_boots",
@@ -9676,7 +9676,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/golden_horns_boots.glb"
+    "gltf": "models/golden_horns_boots.gltf"
   },
   {
     "id": "grandmaster_feline_full_set",
@@ -9709,7 +9709,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/grandmaster_feline_chestplate.glb"
+    "gltf": "models/grandmaster_feline_chestplate.gltf"
   },
   {
     "id": "grandmaster_feline_helmet",
@@ -9733,7 +9733,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/grandmaster_feline_helmet.glb"
+    "gltf": "models/grandmaster_feline_helmet.gltf"
   },
   {
     "id": "grandmaster_feline_chestplate",
@@ -9757,7 +9757,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/grandmaster_feline_chestplate.glb"
+    "gltf": "models/grandmaster_feline_chestplate.gltf"
   },
   {
     "id": "grandmaster_feline_leggings",
@@ -9781,7 +9781,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/grandmaster_feline_leggings.glb"
+    "gltf": "models/grandmaster_feline_leggings.gltf"
   },
   {
     "id": "grandmaster_feline_boots",
@@ -9805,7 +9805,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/grandmaster_feline_boots.glb"
+    "gltf": "models/grandmaster_feline_boots.gltf"
   },
   {
     "id": "grandmaster_griffin_full_set",
@@ -9838,7 +9838,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/grandmaster_griffin_chestplate.glb"
+    "gltf": "models/grandmaster_griffin_chestplate.gltf"
   },
   {
     "id": "grandmaster_griffin_helmet",
@@ -9862,7 +9862,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/grandmaster_griffin_helmet.glb"
+    "gltf": "models/grandmaster_griffin_helmet.gltf"
   },
   {
     "id": "grandmaster_griffin_chestplate",
@@ -9886,7 +9886,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/grandmaster_griffin_chestplate.glb"
+    "gltf": "models/grandmaster_griffin_chestplate.gltf"
   },
   {
     "id": "grandmaster_griffin_leggings",
@@ -9910,7 +9910,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/grandmaster_griffin_leggings.glb"
+    "gltf": "models/grandmaster_griffin_leggings.gltf"
   },
   {
     "id": "grandmaster_griffin_boots",
@@ -9934,7 +9934,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/grandmaster_griffin_boots.glb"
+    "gltf": "models/grandmaster_griffin_boots.gltf"
   },
   {
     "id": "grandmaster_ursine_full_set",
@@ -9967,7 +9967,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/grandmaster_ursine_chestplate.glb"
+    "gltf": "models/grandmaster_ursine_chestplate.gltf"
   },
   {
     "id": "grandmaster_ursine_helmet",
@@ -9991,7 +9991,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/grandmaster_ursine_helmet.glb"
+    "gltf": "models/grandmaster_ursine_helmet.gltf"
   },
   {
     "id": "grandmaster_ursine_chestplate",
@@ -10015,7 +10015,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/grandmaster_ursine_chestplate.glb"
+    "gltf": "models/grandmaster_ursine_chestplate.gltf"
   },
   {
     "id": "grandmaster_ursine_leggings",
@@ -10039,7 +10039,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/grandmaster_ursine_leggings.glb"
+    "gltf": "models/grandmaster_ursine_leggings.gltf"
   },
   {
     "id": "grandmaster_ursine_boots",
@@ -10063,7 +10063,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/grandmaster_ursine_boots.glb"
+    "gltf": "models/grandmaster_ursine_boots.gltf"
   },
   {
     "id": "grandmaster_wolven_full_set",
@@ -10096,7 +10096,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/grandmaster_wolven_chestplate.glb"
+    "gltf": "models/grandmaster_wolven_chestplate.gltf"
   },
   {
     "id": "grandmaster_wolven_helmet",
@@ -10120,7 +10120,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/grandmaster_wolven_helmet.glb"
+    "gltf": "models/grandmaster_wolven_helmet.gltf"
   },
   {
     "id": "grandmaster_wolven_chestplate",
@@ -10144,7 +10144,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/grandmaster_wolven_chestplate.glb"
+    "gltf": "models/grandmaster_wolven_chestplate.gltf"
   },
   {
     "id": "grandmaster_wolven_leggings",
@@ -10168,7 +10168,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/grandmaster_wolven_leggings.glb"
+    "gltf": "models/grandmaster_wolven_leggings.gltf"
   },
   {
     "id": "grandmaster_wolven_boots",
@@ -10192,7 +10192,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/grandmaster_wolven_boots.glb"
+    "gltf": "models/grandmaster_wolven_boots.gltf"
   },
   {
     "id": "grave_sentinel_full_set",
@@ -10225,7 +10225,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/grave_sentinel_chestplate.glb"
+    "gltf": "models/grave_sentinel_chestplate.gltf"
   },
   {
     "id": "grave_sentinel_helmet",
@@ -10249,7 +10249,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/grave_sentinel_helmet.glb"
+    "gltf": "models/grave_sentinel_helmet.gltf"
   },
   {
     "id": "grave_sentinel_chestplate",
@@ -10273,7 +10273,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/grave_sentinel_chestplate.glb"
+    "gltf": "models/grave_sentinel_chestplate.gltf"
   },
   {
     "id": "grave_sentinel_leggings",
@@ -10297,7 +10297,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/grave_sentinel_leggings.glb"
+    "gltf": "models/grave_sentinel_leggings.gltf"
   },
   {
     "id": "grave_sentinel_boots",
@@ -10321,7 +10321,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/grave_sentinel_boots.glb"
+    "gltf": "models/grave_sentinel_boots.gltf"
   },
   {
     "id": "griffin_full_set",
@@ -10354,7 +10354,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/griffin_chestplate.glb"
+    "gltf": "models/griffin_chestplate.gltf"
   },
   {
     "id": "griffin_helmet",
@@ -10378,7 +10378,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/griffin_helmet.glb"
+    "gltf": "models/griffin_helmet.gltf"
   },
   {
     "id": "griffin_chestplate",
@@ -10402,7 +10402,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/griffin_chestplate.glb"
+    "gltf": "models/griffin_chestplate.gltf"
   },
   {
     "id": "griffin_leggings",
@@ -10426,7 +10426,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/griffin_leggings.glb"
+    "gltf": "models/griffin_leggings.gltf"
   },
   {
     "id": "griffin_boots",
@@ -10450,7 +10450,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/griffin_boots.glb"
+    "gltf": "models/griffin_boots.gltf"
   },
   {
     "id": "hero_full_set",
@@ -10483,7 +10483,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/hero_chestplate.glb"
+    "gltf": "models/hero_chestplate.gltf"
   },
   {
     "id": "hero_helmet",
@@ -10507,7 +10507,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/hero_helmet.glb"
+    "gltf": "models/hero_helmet.gltf"
   },
   {
     "id": "hero_chestplate",
@@ -10531,7 +10531,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/hero_chestplate.glb"
+    "gltf": "models/hero_chestplate.gltf"
   },
   {
     "id": "hero_leggings",
@@ -10555,7 +10555,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/hero_leggings.glb"
+    "gltf": "models/hero_leggings.gltf"
   },
   {
     "id": "hero_boots",
@@ -10579,7 +10579,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/hero_boots.glb"
+    "gltf": "models/hero_boots.gltf"
   },
   {
     "id": "hurricane_full_set",
@@ -10612,7 +10612,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/hurricane_chestplate.glb"
+    "gltf": "models/hurricane_chestplate.gltf"
   },
   {
     "id": "hurricane_helmet",
@@ -10636,7 +10636,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/hurricane_helmet.glb"
+    "gltf": "models/hurricane_helmet.gltf"
   },
   {
     "id": "hurricane_chestplate",
@@ -10660,7 +10660,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/hurricane_chestplate.glb"
+    "gltf": "models/hurricane_chestplate.gltf"
   },
   {
     "id": "hurricane_leggings",
@@ -10684,7 +10684,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/hurricane_leggings.glb"
+    "gltf": "models/hurricane_leggings.gltf"
   },
   {
     "id": "hurricane_boots",
@@ -10708,7 +10708,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/hurricane_boots.glb"
+    "gltf": "models/hurricane_boots.gltf"
   },
   {
     "id": "icebound_knight_full_set",
@@ -10741,7 +10741,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/icebound_knight_chestplate.glb"
+    "gltf": "models/icebound_knight_chestplate.gltf"
   },
   {
     "id": "icebound_knight_helmet",
@@ -10765,7 +10765,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/icebound_knight_helmet.glb"
+    "gltf": "models/icebound_knight_helmet.gltf"
   },
   {
     "id": "icebound_knight_chestplate",
@@ -10789,7 +10789,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/icebound_knight_chestplate.glb"
+    "gltf": "models/icebound_knight_chestplate.gltf"
   },
   {
     "id": "icebound_knight_leggings",
@@ -10813,7 +10813,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/icebound_knight_leggings.glb"
+    "gltf": "models/icebound_knight_leggings.gltf"
   },
   {
     "id": "icebound_knight_boots",
@@ -10837,7 +10837,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/icebound_knight_boots.glb"
+    "gltf": "models/icebound_knight_boots.gltf"
   },
   {
     "id": "initiate_full_set",
@@ -10870,7 +10870,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/initiate_chestplate.glb"
+    "gltf": "models/initiate_chestplate.gltf"
   },
   {
     "id": "initiate_helmet",
@@ -10894,7 +10894,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/initiate_helmet.glb"
+    "gltf": "models/initiate_helmet.gltf"
   },
   {
     "id": "initiate_chestplate",
@@ -10918,7 +10918,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/initiate_chestplate.glb"
+    "gltf": "models/initiate_chestplate.gltf"
   },
   {
     "id": "initiate_leggings",
@@ -10942,7 +10942,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/initiate_leggings.glb"
+    "gltf": "models/initiate_leggings.gltf"
   },
   {
     "id": "initiate_boots",
@@ -10966,7 +10966,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/initiate_boots.glb"
+    "gltf": "models/initiate_boots.gltf"
   },
   {
     "id": "justicar_armor_full_set",
@@ -10999,7 +10999,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/justicar_armor_chestplate.glb"
+    "gltf": "models/justicar_armor_chestplate.gltf"
   },
   {
     "id": "justicar_armor_helmet",
@@ -11023,7 +11023,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/justicar_armor_helmet.glb"
+    "gltf": "models/justicar_armor_helmet.gltf"
   },
   {
     "id": "justicar_armor_chestplate",
@@ -11047,7 +11047,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/justicar_armor_chestplate.glb"
+    "gltf": "models/justicar_armor_chestplate.gltf"
   },
   {
     "id": "justicar_armor_leggings",
@@ -11071,7 +11071,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/justicar_armor_leggings.glb"
+    "gltf": "models/justicar_armor_leggings.gltf"
   },
   {
     "id": "justicar_armor_boots",
@@ -11095,7 +11095,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/justicar_armor_boots.glb"
+    "gltf": "models/justicar_armor_boots.gltf"
   },
   {
     "id": "kaer_morhen_full_set",
@@ -11128,7 +11128,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/kaer_morhen_chestplate.glb"
+    "gltf": "models/kaer_morhen_chestplate.gltf"
   },
   {
     "id": "kaer_morhen_helmet",
@@ -11152,7 +11152,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/kaer_morhen_helmet.glb"
+    "gltf": "models/kaer_morhen_helmet.gltf"
   },
   {
     "id": "kaer_morhen_chestplate",
@@ -11176,7 +11176,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/kaer_morhen_chestplate.glb"
+    "gltf": "models/kaer_morhen_chestplate.gltf"
   },
   {
     "id": "kaer_morhen_leggings",
@@ -11200,7 +11200,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/kaer_morhen_leggings.glb"
+    "gltf": "models/kaer_morhen_leggings.gltf"
   },
   {
     "id": "kaer_morhen_boots",
@@ -11224,7 +11224,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/kaer_morhen_boots.glb"
+    "gltf": "models/kaer_morhen_boots.gltf"
   },
   {
     "id": "lady_maria_full_set",
@@ -11257,7 +11257,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/lady_maria_chestplate.glb"
+    "gltf": "models/lady_maria_chestplate.gltf"
   },
   {
     "id": "lady_maria_helmet",
@@ -11281,7 +11281,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/lady_maria_helmet.glb"
+    "gltf": "models/lady_maria_helmet.gltf"
   },
   {
     "id": "lady_maria_chestplate",
@@ -11305,7 +11305,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/lady_maria_chestplate.glb"
+    "gltf": "models/lady_maria_chestplate.gltf"
   },
   {
     "id": "lady_maria_leggings",
@@ -11329,7 +11329,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/lady_maria_leggings.glb"
+    "gltf": "models/lady_maria_leggings.gltf"
   },
   {
     "id": "lady_maria_boots",
@@ -11353,7 +11353,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/lady_maria_boots.glb"
+    "gltf": "models/lady_maria_boots.gltf"
   },
   {
     "id": "lightbringer_armor_full_set",
@@ -11386,7 +11386,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/lightbringer_armor_chestplate.glb"
+    "gltf": "models/lightbringer_armor_chestplate.gltf"
   },
   {
     "id": "lightbringer_armor_helmet",
@@ -11410,7 +11410,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/lightbringer_armor_helmet.glb"
+    "gltf": "models/lightbringer_armor_helmet.gltf"
   },
   {
     "id": "lightbringer_armor_chestplate",
@@ -11434,7 +11434,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/lightbringer_armor_chestplate.glb"
+    "gltf": "models/lightbringer_armor_chestplate.gltf"
   },
   {
     "id": "lightbringer_armor_leggings",
@@ -11458,7 +11458,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/lightbringer_armor_leggings.glb"
+    "gltf": "models/lightbringer_armor_leggings.gltf"
   },
   {
     "id": "lightbringer_armor_boots",
@@ -11482,7 +11482,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/lightbringer_armor_boots.glb"
+    "gltf": "models/lightbringer_armor_boots.gltf"
   },
   {
     "id": "malenia_full_set",
@@ -11515,7 +11515,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/malenia_chestplate.glb"
+    "gltf": "models/malenia_chestplate.gltf"
   },
   {
     "id": "malenia_helmet",
@@ -11539,7 +11539,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/malenia_helmet.glb"
+    "gltf": "models/malenia_helmet.gltf"
   },
   {
     "id": "malenia_chestplate",
@@ -11563,7 +11563,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/malenia_chestplate.glb"
+    "gltf": "models/malenia_chestplate.gltf"
   },
   {
     "id": "malenia_leggings",
@@ -11587,7 +11587,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/malenia_leggings.glb"
+    "gltf": "models/malenia_leggings.gltf"
   },
   {
     "id": "malenia_boots",
@@ -11611,7 +11611,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/malenia_boots.glb"
+    "gltf": "models/malenia_boots.gltf"
   },
   {
     "id": "mastercrafted_feline_full_set",
@@ -11644,7 +11644,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/mastercrafted_feline_chestplate.glb"
+    "gltf": "models/mastercrafted_feline_chestplate.gltf"
   },
   {
     "id": "mastercrafted_feline_helmet",
@@ -11668,7 +11668,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/mastercrafted_feline_helmet.glb"
+    "gltf": "models/mastercrafted_feline_helmet.gltf"
   },
   {
     "id": "mastercrafted_feline_chestplate",
@@ -11692,7 +11692,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/mastercrafted_feline_chestplate.glb"
+    "gltf": "models/mastercrafted_feline_chestplate.gltf"
   },
   {
     "id": "mastercrafted_feline_leggings",
@@ -11716,7 +11716,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/mastercrafted_feline_leggings.glb"
+    "gltf": "models/mastercrafted_feline_leggings.gltf"
   },
   {
     "id": "mastercrafted_feline_boots",
@@ -11740,7 +11740,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/mastercrafted_feline_boots.glb"
+    "gltf": "models/mastercrafted_feline_boots.gltf"
   },
   {
     "id": "mastercrafted_griffin_full_set",
@@ -11773,7 +11773,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/mastercrafted_griffin_chestplate.glb"
+    "gltf": "models/mastercrafted_griffin_chestplate.gltf"
   },
   {
     "id": "mastercrafted_griffin_helmet",
@@ -11797,7 +11797,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/mastercrafted_griffin_helmet.glb"
+    "gltf": "models/mastercrafted_griffin_helmet.gltf"
   },
   {
     "id": "mastercrafted_griffin_chestplate",
@@ -11821,7 +11821,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/mastercrafted_griffin_chestplate.glb"
+    "gltf": "models/mastercrafted_griffin_chestplate.gltf"
   },
   {
     "id": "mastercrafted_griffin_leggings",
@@ -11845,7 +11845,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/mastercrafted_griffin_leggings.glb"
+    "gltf": "models/mastercrafted_griffin_leggings.gltf"
   },
   {
     "id": "mastercrafted_griffin_boots",
@@ -11869,7 +11869,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/mastercrafted_griffin_boots.glb"
+    "gltf": "models/mastercrafted_griffin_boots.gltf"
   },
   {
     "id": "mastercrafted_ursine_full_set",
@@ -11902,7 +11902,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/mastercrafted_ursine_chestplate.glb"
+    "gltf": "models/mastercrafted_ursine_chestplate.gltf"
   },
   {
     "id": "mastercrafted_ursine_helmet",
@@ -11926,7 +11926,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/mastercrafted_ursine_helmet.glb"
+    "gltf": "models/mastercrafted_ursine_helmet.gltf"
   },
   {
     "id": "mastercrafted_ursine_chestplate",
@@ -11950,7 +11950,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/mastercrafted_ursine_chestplate.glb"
+    "gltf": "models/mastercrafted_ursine_chestplate.gltf"
   },
   {
     "id": "mastercrafted_ursine_leggings",
@@ -11974,7 +11974,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/mastercrafted_ursine_leggings.glb"
+    "gltf": "models/mastercrafted_ursine_leggings.gltf"
   },
   {
     "id": "mastercrafted_ursine_boots",
@@ -11998,7 +11998,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/mastercrafted_ursine_boots.glb"
+    "gltf": "models/mastercrafted_ursine_boots.gltf"
   },
   {
     "id": "mastercrafted_wolven_full_set",
@@ -12031,7 +12031,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/mastercrafted_wolven_chestplate.glb"
+    "gltf": "models/mastercrafted_wolven_chestplate.gltf"
   },
   {
     "id": "mastercrafted_wolven_helmet",
@@ -12055,7 +12055,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/mastercrafted_wolven_helmet.glb"
+    "gltf": "models/mastercrafted_wolven_helmet.gltf"
   },
   {
     "id": "mastercrafted_wolven_chestplate",
@@ -12079,7 +12079,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/mastercrafted_wolven_chestplate.glb"
+    "gltf": "models/mastercrafted_wolven_chestplate.gltf"
   },
   {
     "id": "mastercrafted_wolven_leggings",
@@ -12103,7 +12103,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/mastercrafted_wolven_leggings.glb"
+    "gltf": "models/mastercrafted_wolven_leggings.gltf"
   },
   {
     "id": "mastercrafted_wolven_boots",
@@ -12127,7 +12127,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/mastercrafted_wolven_boots.glb"
+    "gltf": "models/mastercrafted_wolven_boots.gltf"
   },
   {
     "id": "mountain_full_set",
@@ -12160,7 +12160,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/mountain_chestplate.glb"
+    "gltf": "models/mountain_chestplate.gltf"
   },
   {
     "id": "mountain_helmet",
@@ -12184,7 +12184,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/mountain_helmet.glb"
+    "gltf": "models/mountain_helmet.gltf"
   },
   {
     "id": "mountain_chestplate",
@@ -12208,7 +12208,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/mountain_chestplate.glb"
+    "gltf": "models/mountain_chestplate.gltf"
   },
   {
     "id": "mountain_leggings",
@@ -12232,7 +12232,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/mountain_leggings.glb"
+    "gltf": "models/mountain_leggings.gltf"
   },
   {
     "id": "mountain_boots",
@@ -12256,7 +12256,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/mountain_boots.glb"
+    "gltf": "models/mountain_boots.gltf"
   },
   {
     "id": "netherite_aqua_full_set",
@@ -12289,7 +12289,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_aqua_chestplate.glb"
+    "gltf": "models/netherite_aqua_chestplate.gltf"
   },
   {
     "id": "netherite_aqua_helmet",
@@ -12313,7 +12313,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_aqua_helmet.glb"
+    "gltf": "models/netherite_aqua_helmet.gltf"
   },
   {
     "id": "netherite_aqua_chestplate",
@@ -12337,7 +12337,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_aqua_chestplate.glb"
+    "gltf": "models/netherite_aqua_chestplate.gltf"
   },
   {
     "id": "netherite_aqua_leggings",
@@ -12361,7 +12361,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_aqua_leggings.glb"
+    "gltf": "models/netherite_aqua_leggings.gltf"
   },
   {
     "id": "netherite_aqua_boots",
@@ -12385,7 +12385,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_aqua_boots.glb"
+    "gltf": "models/netherite_aqua_boots.gltf"
   },
   {
     "id": "netherite_assassin_full_set",
@@ -12418,7 +12418,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_assassin_chestplate.glb"
+    "gltf": "models/netherite_assassin_chestplate.gltf"
   },
   {
     "id": "netherite_assassin_helmet",
@@ -12442,7 +12442,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_assassin_helmet.glb"
+    "gltf": "models/netherite_assassin_helmet.gltf"
   },
   {
     "id": "netherite_assassin_chestplate",
@@ -12466,7 +12466,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_assassin_chestplate.glb"
+    "gltf": "models/netherite_assassin_chestplate.gltf"
   },
   {
     "id": "netherite_assassin_leggings",
@@ -12490,7 +12490,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_assassin_leggings.glb"
+    "gltf": "models/netherite_assassin_leggings.gltf"
   },
   {
     "id": "netherite_assassin_boots",
@@ -12514,7 +12514,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_assassin_boots.glb"
+    "gltf": "models/netherite_assassin_boots.gltf"
   },
   {
     "id": "netherite_berserker_full_set",
@@ -12547,7 +12547,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_berserker_chestplate.glb"
+    "gltf": "models/netherite_berserker_chestplate.gltf"
   },
   {
     "id": "netherite_berserker_helmet",
@@ -12571,7 +12571,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_berserker_helmet.glb"
+    "gltf": "models/netherite_berserker_helmet.gltf"
   },
   {
     "id": "netherite_berserker_chestplate",
@@ -12595,7 +12595,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_berserker_chestplate.glb"
+    "gltf": "models/netherite_berserker_chestplate.gltf"
   },
   {
     "id": "netherite_berserker_leggings",
@@ -12619,7 +12619,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_berserker_leggings.glb"
+    "gltf": "models/netherite_berserker_leggings.gltf"
   },
   {
     "id": "netherite_berserker_boots",
@@ -12643,7 +12643,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_berserker_boots.glb"
+    "gltf": "models/netherite_berserker_boots.gltf"
   },
   {
     "id": "netherite_crusader_full_set",
@@ -12676,7 +12676,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_crusader_chestplate.glb"
+    "gltf": "models/netherite_crusader_chestplate.gltf"
   },
   {
     "id": "netherite_crusader_helmet",
@@ -12700,7 +12700,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_crusader_helmet.glb"
+    "gltf": "models/netherite_crusader_helmet.gltf"
   },
   {
     "id": "netherite_crusader_chestplate",
@@ -12724,7 +12724,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_crusader_chestplate.glb"
+    "gltf": "models/netherite_crusader_chestplate.gltf"
   },
   {
     "id": "netherite_crusader_leggings",
@@ -12748,7 +12748,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_crusader_leggings.glb"
+    "gltf": "models/netherite_crusader_leggings.gltf"
   },
   {
     "id": "netherite_crusader_boots",
@@ -12772,7 +12772,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_crusader_boots.glb"
+    "gltf": "models/netherite_crusader_boots.gltf"
   },
   {
     "id": "netherite_deadeye_full_set",
@@ -12805,7 +12805,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_deadeye_chestplate.glb"
+    "gltf": "models/netherite_deadeye_chestplate.gltf"
   },
   {
     "id": "netherite_deadeye_helmet",
@@ -12829,7 +12829,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_deadeye_helmet.glb"
+    "gltf": "models/netherite_deadeye_helmet.gltf"
   },
   {
     "id": "netherite_deadeye_chestplate",
@@ -12853,7 +12853,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_deadeye_chestplate.glb"
+    "gltf": "models/netherite_deadeye_chestplate.gltf"
   },
   {
     "id": "netherite_deadeye_leggings",
@@ -12877,7 +12877,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_deadeye_leggings.glb"
+    "gltf": "models/netherite_deadeye_leggings.gltf"
   },
   {
     "id": "netherite_deadeye_boots",
@@ -12901,7 +12901,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_deadeye_boots.glb"
+    "gltf": "models/netherite_deadeye_boots.gltf"
   },
   {
     "id": "netherite_northling_full_set",
@@ -12934,7 +12934,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_northling_chestplate.glb"
+    "gltf": "models/netherite_northling_chestplate.gltf"
   },
   {
     "id": "netherite_northling_helmet",
@@ -12958,7 +12958,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_northling_helmet.glb"
+    "gltf": "models/netherite_northling_helmet.gltf"
   },
   {
     "id": "netherite_northling_chestplate",
@@ -12982,7 +12982,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_northling_chestplate.glb"
+    "gltf": "models/netherite_northling_chestplate.gltf"
   },
   {
     "id": "netherite_northling_leggings",
@@ -13006,7 +13006,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_northling_leggings.glb"
+    "gltf": "models/netherite_northling_leggings.gltf"
   },
   {
     "id": "netherite_northling_boots",
@@ -13030,7 +13030,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_northling_boots.glb"
+    "gltf": "models/netherite_northling_boots.gltf"
   },
   {
     "id": "netherite_prior_full_set",
@@ -13063,7 +13063,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_prior_chestplate.glb"
+    "gltf": "models/netherite_prior_chestplate.gltf"
   },
   {
     "id": "netherite_prior_helmet",
@@ -13087,7 +13087,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_prior_helmet.glb"
+    "gltf": "models/netherite_prior_helmet.gltf"
   },
   {
     "id": "netherite_prior_chestplate",
@@ -13111,7 +13111,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_prior_chestplate.glb"
+    "gltf": "models/netherite_prior_chestplate.gltf"
   },
   {
     "id": "netherite_prior_leggings",
@@ -13135,7 +13135,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_prior_leggings.glb"
+    "gltf": "models/netherite_prior_leggings.gltf"
   },
   {
     "id": "netherite_prior_boots",
@@ -13159,7 +13159,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_prior_boots.glb"
+    "gltf": "models/netherite_prior_boots.gltf"
   },
   {
     "id": "netherite_ranger_full_set",
@@ -13192,7 +13192,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_ranger_chestplate.glb"
+    "gltf": "models/netherite_ranger_chestplate.gltf"
   },
   {
     "id": "netherite_ranger_helmet",
@@ -13216,7 +13216,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_ranger_helmet.glb"
+    "gltf": "models/netherite_ranger_helmet.gltf"
   },
   {
     "id": "netherite_ranger_chestplate",
@@ -13240,7 +13240,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_ranger_chestplate.glb"
+    "gltf": "models/netherite_ranger_chestplate.gltf"
   },
   {
     "id": "netherite_ranger_leggings",
@@ -13264,7 +13264,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_ranger_leggings.glb"
+    "gltf": "models/netherite_ranger_leggings.gltf"
   },
   {
     "id": "netherite_ranger_boots",
@@ -13288,7 +13288,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_ranger_boots.glb"
+    "gltf": "models/netherite_ranger_boots.gltf"
   },
   {
     "id": "netherite_terra_full_set",
@@ -13321,7 +13321,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_terra_chestplate.glb"
+    "gltf": "models/netherite_terra_chestplate.gltf"
   },
   {
     "id": "netherite_terra_helmet",
@@ -13345,7 +13345,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_terra_helmet.glb"
+    "gltf": "models/netherite_terra_helmet.gltf"
   },
   {
     "id": "netherite_terra_chestplate",
@@ -13369,7 +13369,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_terra_chestplate.glb"
+    "gltf": "models/netherite_terra_chestplate.gltf"
   },
   {
     "id": "netherite_terra_leggings",
@@ -13393,7 +13393,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_terra_leggings.glb"
+    "gltf": "models/netherite_terra_leggings.gltf"
   },
   {
     "id": "netherite_terra_boots",
@@ -13417,7 +13417,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_terra_boots.glb"
+    "gltf": "models/netherite_terra_boots.gltf"
   },
   {
     "id": "netherite_tundra_hunter_full_set",
@@ -13450,7 +13450,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_tundra_hunter_chestplate.glb"
+    "gltf": "models/netherite_tundra_hunter_chestplate.gltf"
   },
   {
     "id": "netherite_tundra_hunter_helmet",
@@ -13474,7 +13474,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_tundra_hunter_helmet.glb"
+    "gltf": "models/netherite_tundra_hunter_helmet.gltf"
   },
   {
     "id": "netherite_tundra_hunter_chestplate",
@@ -13498,7 +13498,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_tundra_hunter_chestplate.glb"
+    "gltf": "models/netherite_tundra_hunter_chestplate.gltf"
   },
   {
     "id": "netherite_tundra_hunter_leggings",
@@ -13522,7 +13522,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_tundra_hunter_leggings.glb"
+    "gltf": "models/netherite_tundra_hunter_leggings.gltf"
   },
   {
     "id": "netherite_tundra_hunter_boots",
@@ -13546,7 +13546,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_tundra_hunter_boots.glb"
+    "gltf": "models/netherite_tundra_hunter_boots.gltf"
   },
   {
     "id": "netherite_war_archer_full_set",
@@ -13579,7 +13579,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_war_archer_chestplate.glb"
+    "gltf": "models/netherite_war_archer_chestplate.gltf"
   },
   {
     "id": "netherite_war_archer_helmet",
@@ -13603,7 +13603,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_war_archer_helmet.glb"
+    "gltf": "models/netherite_war_archer_helmet.gltf"
   },
   {
     "id": "netherite_war_archer_chestplate",
@@ -13627,7 +13627,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_war_archer_chestplate.glb"
+    "gltf": "models/netherite_war_archer_chestplate.gltf"
   },
   {
     "id": "netherite_war_archer_leggings",
@@ -13651,7 +13651,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_war_archer_leggings.glb"
+    "gltf": "models/netherite_war_archer_leggings.gltf"
   },
   {
     "id": "netherite_war_archer_boots",
@@ -13675,7 +13675,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_war_archer_boots.glb"
+    "gltf": "models/netherite_war_archer_boots.gltf"
   },
   {
     "id": "netherite_wind_full_set",
@@ -13708,7 +13708,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/netherite_wind_chestplate.glb"
+    "gltf": "models/netherite_wind_chestplate.gltf"
   },
   {
     "id": "netherite_wind_helmet",
@@ -13732,7 +13732,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/netherite_wind_helmet.glb"
+    "gltf": "models/netherite_wind_helmet.gltf"
   },
   {
     "id": "netherite_wind_chestplate",
@@ -13756,7 +13756,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/netherite_wind_chestplate.glb"
+    "gltf": "models/netherite_wind_chestplate.gltf"
   },
   {
     "id": "netherite_wind_leggings",
@@ -13780,7 +13780,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/netherite_wind_leggings.glb"
+    "gltf": "models/netherite_wind_leggings.gltf"
   },
   {
     "id": "netherite_wind_boots",
@@ -13804,7 +13804,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/netherite_wind_boots.glb"
+    "gltf": "models/netherite_wind_boots.gltf"
   },
   {
     "id": "norse_warlord_full_set",
@@ -13837,7 +13837,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/norse_warlord_chestplate.glb"
+    "gltf": "models/norse_warlord_chestplate.gltf"
   },
   {
     "id": "norse_warlord_helmet",
@@ -13861,7 +13861,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/norse_warlord_helmet.glb"
+    "gltf": "models/norse_warlord_helmet.gltf"
   },
   {
     "id": "norse_warlord_chestplate",
@@ -13885,7 +13885,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/norse_warlord_chestplate.glb"
+    "gltf": "models/norse_warlord_chestplate.gltf"
   },
   {
     "id": "norse_warlord_leggings",
@@ -13909,7 +13909,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/norse_warlord_leggings.glb"
+    "gltf": "models/norse_warlord_leggings.gltf"
   },
   {
     "id": "norse_warlord_boots",
@@ -13933,7 +13933,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/norse_warlord_boots.glb"
+    "gltf": "models/norse_warlord_boots.gltf"
   },
   {
     "id": "northling_full_set",
@@ -13966,7 +13966,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/northling_chestplate.glb"
+    "gltf": "models/northling_chestplate.gltf"
   },
   {
     "id": "northling_helmet",
@@ -13990,7 +13990,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/northling_helmet.glb"
+    "gltf": "models/northling_helmet.gltf"
   },
   {
     "id": "northling_chestplate",
@@ -14014,7 +14014,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/northling_chestplate.glb"
+    "gltf": "models/northling_chestplate.gltf"
   },
   {
     "id": "northling_leggings",
@@ -14038,7 +14038,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/northling_leggings.glb"
+    "gltf": "models/northling_leggings.gltf"
   },
   {
     "id": "northling_boots",
@@ -14062,7 +14062,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/northling_boots.glb"
+    "gltf": "models/northling_boots.gltf"
   },
   {
     "id": "ocean_full_set",
@@ -14095,7 +14095,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/ocean_chestplate.glb"
+    "gltf": "models/ocean_chestplate.gltf"
   },
   {
     "id": "ocean_helmet",
@@ -14119,7 +14119,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/ocean_helmet.glb"
+    "gltf": "models/ocean_helmet.gltf"
   },
   {
     "id": "ocean_chestplate",
@@ -14143,7 +14143,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/ocean_chestplate.glb"
+    "gltf": "models/ocean_chestplate.gltf"
   },
   {
     "id": "ocean_leggings",
@@ -14167,7 +14167,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/ocean_leggings.glb"
+    "gltf": "models/ocean_leggings.gltf"
   },
   {
     "id": "ocean_boots",
@@ -14191,7 +14191,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/ocean_boots.glb"
+    "gltf": "models/ocean_boots.gltf"
   },
   {
     "id": "old_knight_full_set",
@@ -14224,7 +14224,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/old_knight_chestplate.glb"
+    "gltf": "models/old_knight_chestplate.gltf"
   },
   {
     "id": "old_knight_helmet",
@@ -14248,7 +14248,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/old_knight_helmet.glb"
+    "gltf": "models/old_knight_helmet.gltf"
   },
   {
     "id": "old_knight_chestplate",
@@ -14272,7 +14272,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/old_knight_chestplate.glb"
+    "gltf": "models/old_knight_chestplate.gltf"
   },
   {
     "id": "old_knight_leggings",
@@ -14296,7 +14296,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/old_knight_leggings.glb"
+    "gltf": "models/old_knight_leggings.gltf"
   },
   {
     "id": "old_knight_boots",
@@ -14320,7 +14320,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/old_knight_boots.glb"
+    "gltf": "models/old_knight_boots.gltf"
   },
   {
     "id": "onslaught_armor_full_set",
@@ -14353,7 +14353,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/onslaught_armor_chestplate.glb"
+    "gltf": "models/onslaught_armor_chestplate.gltf"
   },
   {
     "id": "onslaught_armor_helmet",
@@ -14377,7 +14377,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/onslaught_armor_helmet.glb"
+    "gltf": "models/onslaught_armor_helmet.gltf"
   },
   {
     "id": "onslaught_armor_chestplate",
@@ -14401,7 +14401,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/onslaught_armor_chestplate.glb"
+    "gltf": "models/onslaught_armor_chestplate.gltf"
   },
   {
     "id": "onslaught_armor_leggings",
@@ -14425,7 +14425,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/onslaught_armor_leggings.glb"
+    "gltf": "models/onslaught_armor_leggings.gltf"
   },
   {
     "id": "onslaught_armor_boots",
@@ -14449,7 +14449,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/onslaught_armor_boots.glb"
+    "gltf": "models/onslaught_armor_boots.gltf"
   },
   {
     "id": "oriene_full_set",
@@ -14482,7 +14482,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/oriene_chestplate.glb"
+    "gltf": "models/oriene_chestplate.gltf"
   },
   {
     "id": "oriene_helmet",
@@ -14506,7 +14506,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/oriene_helmet.glb"
+    "gltf": "models/oriene_helmet.gltf"
   },
   {
     "id": "oriene_chestplate",
@@ -14530,7 +14530,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/oriene_chestplate.glb"
+    "gltf": "models/oriene_chestplate.gltf"
   },
   {
     "id": "oriene_leggings",
@@ -14554,7 +14554,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/oriene_leggings.glb"
+    "gltf": "models/oriene_leggings.gltf"
   },
   {
     "id": "oriene_boots",
@@ -14578,7 +14578,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/oriene_boots.glb"
+    "gltf": "models/oriene_boots.gltf"
   },
   {
     "id": "ornstein_full_set",
@@ -14611,7 +14611,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/ornstein_chestplate.glb"
+    "gltf": "models/ornstein_chestplate.gltf"
   },
   {
     "id": "ornstein_helmet",
@@ -14635,7 +14635,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/ornstein_helmet.glb"
+    "gltf": "models/ornstein_helmet.gltf"
   },
   {
     "id": "ornstein_chestplate",
@@ -14659,7 +14659,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/ornstein_chestplate.glb"
+    "gltf": "models/ornstein_chestplate.gltf"
   },
   {
     "id": "ornstein_leggings",
@@ -14683,7 +14683,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/ornstein_leggings.glb"
+    "gltf": "models/ornstein_leggings.gltf"
   },
   {
     "id": "ornstein_boots",
@@ -14707,7 +14707,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/ornstein_boots.glb"
+    "gltf": "models/ornstein_boots.gltf"
   },
   {
     "id": "paladin_full_set",
@@ -14740,7 +14740,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/paladin_chestplate.glb"
+    "gltf": "models/paladin_chestplate.gltf"
   },
   {
     "id": "paladin_helmet",
@@ -14764,7 +14764,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/paladin_helmet.glb"
+    "gltf": "models/paladin_helmet.gltf"
   },
   {
     "id": "paladin_chestplate",
@@ -14788,7 +14788,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/paladin_chestplate.glb"
+    "gltf": "models/paladin_chestplate.gltf"
   },
   {
     "id": "paladin_leggings",
@@ -14812,7 +14812,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/paladin_leggings.glb"
+    "gltf": "models/paladin_leggings.gltf"
   },
   {
     "id": "paladin_boots",
@@ -14836,7 +14836,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/paladin_boots.glb"
+    "gltf": "models/paladin_boots.gltf"
   },
   {
     "id": "phasleb_full_set",
@@ -14869,7 +14869,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/phasleb_chestplate.glb"
+    "gltf": "models/phasleb_chestplate.gltf"
   },
   {
     "id": "phasleb_helmet",
@@ -14893,7 +14893,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/phasleb_helmet.glb"
+    "gltf": "models/phasleb_helmet.gltf"
   },
   {
     "id": "phasleb_chestplate",
@@ -14917,7 +14917,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/phasleb_chestplate.glb"
+    "gltf": "models/phasleb_chestplate.gltf"
   },
   {
     "id": "phasleb_leggings",
@@ -14941,7 +14941,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/phasleb_leggings.glb"
+    "gltf": "models/phasleb_leggings.gltf"
   },
   {
     "id": "phasleb_boots",
@@ -14965,7 +14965,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/phasleb_boots.glb"
+    "gltf": "models/phasleb_boots.gltf"
   },
   {
     "id": "plaguebringer_full_set",
@@ -14998,7 +14998,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/plaguebringer_chestplate.glb"
+    "gltf": "models/plaguebringer_chestplate.gltf"
   },
   {
     "id": "plaguebringer_helmet",
@@ -15022,7 +15022,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/plaguebringer_helmet.glb"
+    "gltf": "models/plaguebringer_helmet.gltf"
   },
   {
     "id": "plaguebringer_chestplate",
@@ -15046,7 +15046,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/plaguebringer_chestplate.glb"
+    "gltf": "models/plaguebringer_chestplate.gltf"
   },
   {
     "id": "plaguebringer_leggings",
@@ -15070,7 +15070,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/plaguebringer_leggings.glb"
+    "gltf": "models/plaguebringer_leggings.gltf"
   },
   {
     "id": "plaguebringer_boots",
@@ -15094,7 +15094,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/plaguebringer_boots.glb"
+    "gltf": "models/plaguebringer_boots.gltf"
   },
   {
     "id": "polar_stalker_full_set",
@@ -15127,7 +15127,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/polar_stalker_chestplate.glb"
+    "gltf": "models/polar_stalker_chestplate.gltf"
   },
   {
     "id": "polar_stalker_helmet",
@@ -15151,7 +15151,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/polar_stalker_helmet.glb"
+    "gltf": "models/polar_stalker_helmet.gltf"
   },
   {
     "id": "polar_stalker_chestplate",
@@ -15175,7 +15175,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/polar_stalker_chestplate.glb"
+    "gltf": "models/polar_stalker_chestplate.gltf"
   },
   {
     "id": "polar_stalker_leggings",
@@ -15199,7 +15199,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/polar_stalker_leggings.glb"
+    "gltf": "models/polar_stalker_leggings.gltf"
   },
   {
     "id": "polar_stalker_boots",
@@ -15223,7 +15223,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/polar_stalker_boots.glb"
+    "gltf": "models/polar_stalker_boots.gltf"
   },
   {
     "id": "priest_full_set",
@@ -15256,7 +15256,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/priest_chestplate.glb"
+    "gltf": "models/priest_chestplate.gltf"
   },
   {
     "id": "priest_helmet",
@@ -15280,7 +15280,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/priest_helmet.glb"
+    "gltf": "models/priest_helmet.gltf"
   },
   {
     "id": "priest_chestplate",
@@ -15304,7 +15304,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/priest_chestplate.glb"
+    "gltf": "models/priest_chestplate.gltf"
   },
   {
     "id": "priest_leggings",
@@ -15328,7 +15328,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/priest_leggings.glb"
+    "gltf": "models/priest_leggings.gltf"
   },
   {
     "id": "priest_boots",
@@ -15352,7 +15352,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/priest_boots.glb"
+    "gltf": "models/priest_boots.gltf"
   },
   {
     "id": "prior_full_set",
@@ -15385,7 +15385,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/prior_chestplate.glb"
+    "gltf": "models/prior_chestplate.gltf"
   },
   {
     "id": "prior_helmet",
@@ -15409,7 +15409,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/prior_helmet.glb"
+    "gltf": "models/prior_helmet.gltf"
   },
   {
     "id": "prior_chestplate",
@@ -15433,7 +15433,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/prior_chestplate.glb"
+    "gltf": "models/prior_chestplate.gltf"
   },
   {
     "id": "prior_leggings",
@@ -15457,7 +15457,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/prior_leggings.glb"
+    "gltf": "models/prior_leggings.gltf"
   },
   {
     "id": "prior_boots",
@@ -15481,7 +15481,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/prior_boots.glb"
+    "gltf": "models/prior_boots.gltf"
   },
   {
     "id": "ranger_full_set",
@@ -15514,7 +15514,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/ranger_chestplate.glb"
+    "gltf": "models/ranger_chestplate.gltf"
   },
   {
     "id": "ranger_helmet",
@@ -15538,7 +15538,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/ranger_helmet.glb"
+    "gltf": "models/ranger_helmet.gltf"
   },
   {
     "id": "ranger_chestplate",
@@ -15562,7 +15562,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/ranger_chestplate.glb"
+    "gltf": "models/ranger_chestplate.gltf"
   },
   {
     "id": "ranger_leggings",
@@ -15586,7 +15586,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/ranger_leggings.glb"
+    "gltf": "models/ranger_leggings.gltf"
   },
   {
     "id": "ranger_boots",
@@ -15610,7 +15610,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/ranger_boots.glb"
+    "gltf": "models/ranger_boots.gltf"
   },
   {
     "id": "redeemer_full_set",
@@ -15643,7 +15643,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/redeemer_chestplate.glb"
+    "gltf": "models/redeemer_chestplate.gltf"
   },
   {
     "id": "redeemer_helmet",
@@ -15667,7 +15667,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/redeemer_helmet.glb"
+    "gltf": "models/redeemer_helmet.gltf"
   },
   {
     "id": "redeemer_chestplate",
@@ -15691,7 +15691,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/redeemer_chestplate.glb"
+    "gltf": "models/redeemer_chestplate.gltf"
   },
   {
     "id": "redeemer_leggings",
@@ -15715,7 +15715,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/redeemer_leggings.glb"
+    "gltf": "models/redeemer_leggings.gltf"
   },
   {
     "id": "redeemer_boots",
@@ -15739,7 +15739,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/redeemer_boots.glb"
+    "gltf": "models/redeemer_boots.gltf"
   },
   {
     "id": "riftstalker_armor_full_set",
@@ -15772,7 +15772,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/riftstalker_armor_chestplate.glb"
+    "gltf": "models/riftstalker_armor_chestplate.gltf"
   },
   {
     "id": "riftstalker_armor_helmet",
@@ -15796,7 +15796,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/riftstalker_armor_helmet.glb"
+    "gltf": "models/riftstalker_armor_helmet.gltf"
   },
   {
     "id": "riftstalker_armor_chestplate",
@@ -15820,7 +15820,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/riftstalker_armor_chestplate.glb"
+    "gltf": "models/riftstalker_armor_chestplate.gltf"
   },
   {
     "id": "riftstalker_armor_leggings",
@@ -15844,7 +15844,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/riftstalker_armor_leggings.glb"
+    "gltf": "models/riftstalker_armor_leggings.gltf"
   },
   {
     "id": "riftstalker_armor_boots",
@@ -15868,7 +15868,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/riftstalker_armor_boots.glb"
+    "gltf": "models/riftstalker_armor_boots.gltf"
   },
   {
     "id": "rogue_full_set",
@@ -15901,7 +15901,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/rogue_chestplate.glb"
+    "gltf": "models/rogue_chestplate.gltf"
   },
   {
     "id": "rogue_helmet",
@@ -15925,7 +15925,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/rogue_helmet.glb"
+    "gltf": "models/rogue_helmet.gltf"
   },
   {
     "id": "rogue_chestplate",
@@ -15949,7 +15949,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/rogue_chestplate.glb"
+    "gltf": "models/rogue_chestplate.gltf"
   },
   {
     "id": "rogue_leggings",
@@ -15973,7 +15973,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/rogue_leggings.glb"
+    "gltf": "models/rogue_leggings.gltf"
   },
   {
     "id": "rogue_boots",
@@ -15997,7 +15997,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/rogue_boots.glb"
+    "gltf": "models/rogue_boots.gltf"
   },
   {
     "id": "ronin_full_set",
@@ -16030,7 +16030,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/ronin_chestplate.glb"
+    "gltf": "models/ronin_chestplate.gltf"
   },
   {
     "id": "ronin_helmet",
@@ -16054,7 +16054,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/ronin_helmet.glb"
+    "gltf": "models/ronin_helmet.gltf"
   },
   {
     "id": "ronin_chestplate",
@@ -16078,7 +16078,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/ronin_chestplate.glb"
+    "gltf": "models/ronin_chestplate.gltf"
   },
   {
     "id": "ronin_leggings",
@@ -16102,7 +16102,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/ronin_leggings.glb"
+    "gltf": "models/ronin_leggings.gltf"
   },
   {
     "id": "ronin_boots",
@@ -16126,7 +16126,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/ronin_boots.glb"
+    "gltf": "models/ronin_boots.gltf"
   },
   {
     "id": "sentinel_archer_full_set",
@@ -16159,7 +16159,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/sentinel_archer_chestplate.glb"
+    "gltf": "models/sentinel_archer_chestplate.gltf"
   },
   {
     "id": "sentinel_archer_helmet",
@@ -16183,7 +16183,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/sentinel_archer_helmet.glb"
+    "gltf": "models/sentinel_archer_helmet.gltf"
   },
   {
     "id": "sentinel_archer_chestplate",
@@ -16207,7 +16207,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/sentinel_archer_chestplate.glb"
+    "gltf": "models/sentinel_archer_chestplate.gltf"
   },
   {
     "id": "sentinel_archer_leggings",
@@ -16231,7 +16231,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/sentinel_archer_leggings.glb"
+    "gltf": "models/sentinel_archer_leggings.gltf"
   },
   {
     "id": "sentinel_archer_boots",
@@ -16255,7 +16255,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/sentinel_archer_boots.glb"
+    "gltf": "models/sentinel_archer_boots.gltf"
   },
   {
     "id": "silver_knight_full_set",
@@ -16288,7 +16288,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/silver_knight_chestplate.glb"
+    "gltf": "models/silver_knight_chestplate.gltf"
   },
   {
     "id": "silver_knight_helmet",
@@ -16312,7 +16312,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/silver_knight_helmet.glb"
+    "gltf": "models/silver_knight_helmet.gltf"
   },
   {
     "id": "silver_knight_chestplate",
@@ -16336,7 +16336,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/silver_knight_chestplate.glb"
+    "gltf": "models/silver_knight_chestplate.gltf"
   },
   {
     "id": "silver_knight_leggings",
@@ -16360,7 +16360,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/silver_knight_leggings.glb"
+    "gltf": "models/silver_knight_leggings.gltf"
   },
   {
     "id": "silver_knight_boots",
@@ -16384,7 +16384,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/silver_knight_boots.glb"
+    "gltf": "models/silver_knight_boots.gltf"
   },
   {
     "id": "slayer_armor_full_set",
@@ -16417,7 +16417,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/slayer_armor_chestplate.glb"
+    "gltf": "models/slayer_armor_chestplate.gltf"
   },
   {
     "id": "slayer_armor_helmet",
@@ -16441,7 +16441,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/slayer_armor_helmet.glb"
+    "gltf": "models/slayer_armor_helmet.gltf"
   },
   {
     "id": "slayer_armor_chestplate",
@@ -16465,7 +16465,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/slayer_armor_chestplate.glb"
+    "gltf": "models/slayer_armor_chestplate.gltf"
   },
   {
     "id": "slayer_armor_leggings",
@@ -16489,7 +16489,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/slayer_armor_leggings.glb"
+    "gltf": "models/slayer_armor_leggings.gltf"
   },
   {
     "id": "slayer_armor_boots",
@@ -16513,7 +16513,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/slayer_armor_boots.glb"
+    "gltf": "models/slayer_armor_boots.gltf"
   },
   {
     "id": "spark_of_dawn_full_set",
@@ -16546,7 +16546,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/spark_of_dawn_chestplate.glb"
+    "gltf": "models/spark_of_dawn_chestplate.gltf"
   },
   {
     "id": "spark_of_dawn_helmet",
@@ -16570,7 +16570,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/spark_of_dawn_helmet.glb"
+    "gltf": "models/spark_of_dawn_helmet.gltf"
   },
   {
     "id": "spark_of_dawn_chestplate",
@@ -16594,7 +16594,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/spark_of_dawn_chestplate.glb"
+    "gltf": "models/spark_of_dawn_chestplate.gltf"
   },
   {
     "id": "spark_of_dawn_leggings",
@@ -16618,7 +16618,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/spark_of_dawn_leggings.glb"
+    "gltf": "models/spark_of_dawn_leggings.gltf"
   },
   {
     "id": "spark_of_dawn_boots",
@@ -16642,7 +16642,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/spark_of_dawn_boots.glb"
+    "gltf": "models/spark_of_dawn_boots.gltf"
   },
   {
     "id": "strider_armor_full_set",
@@ -16675,7 +16675,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/strider_armor_chestplate.glb"
+    "gltf": "models/strider_armor_chestplate.gltf"
   },
   {
     "id": "strider_armor_helmet",
@@ -16699,7 +16699,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/strider_armor_helmet.glb"
+    "gltf": "models/strider_armor_helmet.gltf"
   },
   {
     "id": "strider_armor_chestplate",
@@ -16723,7 +16723,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/strider_armor_chestplate.glb"
+    "gltf": "models/strider_armor_chestplate.gltf"
   },
   {
     "id": "strider_armor_leggings",
@@ -16747,7 +16747,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/strider_armor_leggings.glb"
+    "gltf": "models/strider_armor_leggings.gltf"
   },
   {
     "id": "strider_armor_boots",
@@ -16771,7 +16771,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/strider_armor_boots.glb"
+    "gltf": "models/strider_armor_boots.gltf"
   },
   {
     "id": "sunset_wings_full_set",
@@ -16804,7 +16804,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/sunset_wings_chestplate.glb"
+    "gltf": "models/sunset_wings_chestplate.gltf"
   },
   {
     "id": "sunset_wings_helmet",
@@ -16828,7 +16828,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/sunset_wings_helmet.glb"
+    "gltf": "models/sunset_wings_helmet.gltf"
   },
   {
     "id": "sunset_wings_chestplate",
@@ -16852,7 +16852,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/sunset_wings_chestplate.glb"
+    "gltf": "models/sunset_wings_chestplate.gltf"
   },
   {
     "id": "sunset_wings_leggings",
@@ -16876,7 +16876,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/sunset_wings_leggings.glb"
+    "gltf": "models/sunset_wings_leggings.gltf"
   },
   {
     "id": "sunset_wings_boots",
@@ -16900,7 +16900,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/sunset_wings_boots.glb"
+    "gltf": "models/sunset_wings_boots.gltf"
   },
   {
     "id": "superior_feline_full_set",
@@ -16933,7 +16933,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/superior_feline_chestplate.glb"
+    "gltf": "models/superior_feline_chestplate.gltf"
   },
   {
     "id": "superior_feline_helmet",
@@ -16957,7 +16957,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/superior_feline_helmet.glb"
+    "gltf": "models/superior_feline_helmet.gltf"
   },
   {
     "id": "superior_feline_chestplate",
@@ -16981,7 +16981,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/superior_feline_chestplate.glb"
+    "gltf": "models/superior_feline_chestplate.gltf"
   },
   {
     "id": "superior_feline_leggings",
@@ -17005,7 +17005,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/superior_feline_leggings.glb"
+    "gltf": "models/superior_feline_leggings.gltf"
   },
   {
     "id": "superior_feline_boots",
@@ -17029,7 +17029,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/superior_feline_boots.glb"
+    "gltf": "models/superior_feline_boots.gltf"
   },
   {
     "id": "superior_griffin_full_set",
@@ -17062,7 +17062,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/superior_griffin_chestplate.glb"
+    "gltf": "models/superior_griffin_chestplate.gltf"
   },
   {
     "id": "superior_griffin_helmet",
@@ -17086,7 +17086,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/superior_griffin_helmet.glb"
+    "gltf": "models/superior_griffin_helmet.gltf"
   },
   {
     "id": "superior_griffin_chestplate",
@@ -17110,7 +17110,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/superior_griffin_chestplate.glb"
+    "gltf": "models/superior_griffin_chestplate.gltf"
   },
   {
     "id": "superior_griffin_leggings",
@@ -17134,7 +17134,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/superior_griffin_leggings.glb"
+    "gltf": "models/superior_griffin_leggings.gltf"
   },
   {
     "id": "superior_griffin_boots",
@@ -17158,7 +17158,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/superior_griffin_boots.glb"
+    "gltf": "models/superior_griffin_boots.gltf"
   },
   {
     "id": "superior_ursine_full_set",
@@ -17191,7 +17191,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/superior_ursine_chestplate.glb"
+    "gltf": "models/superior_ursine_chestplate.gltf"
   },
   {
     "id": "superior_ursine_helmet",
@@ -17215,7 +17215,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/superior_ursine_helmet.glb"
+    "gltf": "models/superior_ursine_helmet.gltf"
   },
   {
     "id": "superior_ursine_chestplate",
@@ -17239,7 +17239,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/superior_ursine_chestplate.glb"
+    "gltf": "models/superior_ursine_chestplate.gltf"
   },
   {
     "id": "superior_ursine_leggings",
@@ -17263,7 +17263,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/superior_ursine_leggings.glb"
+    "gltf": "models/superior_ursine_leggings.gltf"
   },
   {
     "id": "superior_ursine_boots",
@@ -17287,7 +17287,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/superior_ursine_boots.glb"
+    "gltf": "models/superior_ursine_boots.gltf"
   },
   {
     "id": "superior_wolven_full_set",
@@ -17320,7 +17320,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/superior_wolven_chestplate.glb"
+    "gltf": "models/superior_wolven_chestplate.gltf"
   },
   {
     "id": "superior_wolven_helmet",
@@ -17344,7 +17344,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/superior_wolven_helmet.glb"
+    "gltf": "models/superior_wolven_helmet.gltf"
   },
   {
     "id": "superior_wolven_chestplate",
@@ -17368,7 +17368,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/superior_wolven_chestplate.glb"
+    "gltf": "models/superior_wolven_chestplate.gltf"
   },
   {
     "id": "superior_wolven_leggings",
@@ -17392,7 +17392,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/superior_wolven_leggings.glb"
+    "gltf": "models/superior_wolven_leggings.gltf"
   },
   {
     "id": "superior_wolven_boots",
@@ -17416,7 +17416,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/superior_wolven_boots.glb"
+    "gltf": "models/superior_wolven_boots.gltf"
   },
   {
     "id": "tempest_robe_full_set",
@@ -17449,7 +17449,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/tempest_robe_chestplate.glb"
+    "gltf": "models/tempest_robe_chestplate.gltf"
   },
   {
     "id": "tempest_robe_helmet",
@@ -17473,7 +17473,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/tempest_robe_helmet.glb"
+    "gltf": "models/tempest_robe_helmet.gltf"
   },
   {
     "id": "tempest_robe_chestplate",
@@ -17497,7 +17497,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/tempest_robe_chestplate.glb"
+    "gltf": "models/tempest_robe_chestplate.gltf"
   },
   {
     "id": "tempest_robe_leggings",
@@ -17521,7 +17521,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/tempest_robe_leggings.glb"
+    "gltf": "models/tempest_robe_leggings.gltf"
   },
   {
     "id": "tempest_robe_boots",
@@ -17545,7 +17545,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/tempest_robe_boots.glb"
+    "gltf": "models/tempest_robe_boots.gltf"
   },
   {
     "id": "terra_full_set",
@@ -17578,7 +17578,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/terra_chestplate.glb"
+    "gltf": "models/terra_chestplate.gltf"
   },
   {
     "id": "terra_helmet",
@@ -17602,7 +17602,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/terra_helmet.glb"
+    "gltf": "models/terra_helmet.gltf"
   },
   {
     "id": "terra_chestplate",
@@ -17626,7 +17626,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/terra_chestplate.glb"
+    "gltf": "models/terra_chestplate.gltf"
   },
   {
     "id": "terra_leggings",
@@ -17650,7 +17650,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/terra_leggings.glb"
+    "gltf": "models/terra_leggings.gltf"
   },
   {
     "id": "terra_boots",
@@ -17674,7 +17674,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/terra_boots.glb"
+    "gltf": "models/terra_boots.gltf"
   },
   {
     "id": "thief_full_set",
@@ -17707,7 +17707,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/thief_chestplate.glb"
+    "gltf": "models/thief_chestplate.gltf"
   },
   {
     "id": "thief_helmet",
@@ -17731,7 +17731,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/thief_helmet.glb"
+    "gltf": "models/thief_helmet.gltf"
   },
   {
     "id": "thief_chestplate",
@@ -17755,7 +17755,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/thief_chestplate.glb"
+    "gltf": "models/thief_chestplate.gltf"
   },
   {
     "id": "thief_leggings",
@@ -17779,7 +17779,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/thief_leggings.glb"
+    "gltf": "models/thief_leggings.gltf"
   },
   {
     "id": "thief_boots",
@@ -17803,7 +17803,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/thief_boots.glb"
+    "gltf": "models/thief_boots.gltf"
   },
   {
     "id": "tundra_hunter_full_set",
@@ -17836,7 +17836,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/tundra_hunter_chestplate.glb"
+    "gltf": "models/tundra_hunter_chestplate.gltf"
   },
   {
     "id": "tundra_hunter_helmet",
@@ -17860,7 +17860,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/tundra_hunter_helmet.glb"
+    "gltf": "models/tundra_hunter_helmet.gltf"
   },
   {
     "id": "tundra_hunter_chestplate",
@@ -17884,7 +17884,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/tundra_hunter_chestplate.glb"
+    "gltf": "models/tundra_hunter_chestplate.gltf"
   },
   {
     "id": "tundra_hunter_leggings",
@@ -17908,7 +17908,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/tundra_hunter_leggings.glb"
+    "gltf": "models/tundra_hunter_leggings.gltf"
   },
   {
     "id": "tundra_hunter_boots",
@@ -17932,7 +17932,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/tundra_hunter_boots.glb"
+    "gltf": "models/tundra_hunter_boots.gltf"
   },
   {
     "id": "twinned_full_set",
@@ -17965,7 +17965,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/twinned_chestplate.glb"
+    "gltf": "models/twinned_chestplate.gltf"
   },
   {
     "id": "twinned_helmet",
@@ -17989,7 +17989,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/twinned_helmet.glb"
+    "gltf": "models/twinned_helmet.gltf"
   },
   {
     "id": "twinned_chestplate",
@@ -18013,7 +18013,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/twinned_chestplate.glb"
+    "gltf": "models/twinned_chestplate.gltf"
   },
   {
     "id": "twinned_leggings",
@@ -18037,7 +18037,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/twinned_leggings.glb"
+    "gltf": "models/twinned_leggings.gltf"
   },
   {
     "id": "twinned_boots",
@@ -18061,7 +18061,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/twinned_boots.glb"
+    "gltf": "models/twinned_boots.gltf"
   },
   {
     "id": "ursine_full_set",
@@ -18094,7 +18094,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/ursine_chestplate.glb"
+    "gltf": "models/ursine_chestplate.gltf"
   },
   {
     "id": "ursine_helmet",
@@ -18118,7 +18118,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/ursine_helmet.glb"
+    "gltf": "models/ursine_helmet.gltf"
   },
   {
     "id": "ursine_chestplate",
@@ -18142,7 +18142,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/ursine_chestplate.glb"
+    "gltf": "models/ursine_chestplate.gltf"
   },
   {
     "id": "ursine_leggings",
@@ -18166,7 +18166,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/ursine_leggings.glb"
+    "gltf": "models/ursine_leggings.gltf"
   },
   {
     "id": "ursine_boots",
@@ -18190,7 +18190,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/ursine_boots.glb"
+    "gltf": "models/ursine_boots.gltf"
   },
   {
     "id": "wandering_wizard_full_set",
@@ -18223,7 +18223,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/wandering_wizard_chestplate.glb"
+    "gltf": "models/wandering_wizard_chestplate.gltf"
   },
   {
     "id": "wandering_wizard_helmet",
@@ -18247,7 +18247,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/wandering_wizard_helmet.glb"
+    "gltf": "models/wandering_wizard_helmet.gltf"
   },
   {
     "id": "wandering_wizard_chestplate",
@@ -18271,7 +18271,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/wandering_wizard_chestplate.glb"
+    "gltf": "models/wandering_wizard_chestplate.gltf"
   },
   {
     "id": "wandering_wizard_leggings",
@@ -18295,7 +18295,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/wandering_wizard_leggings.glb"
+    "gltf": "models/wandering_wizard_leggings.gltf"
   },
   {
     "id": "wandering_wizard_boots",
@@ -18319,7 +18319,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/wandering_wizard_boots.glb"
+    "gltf": "models/wandering_wizard_boots.gltf"
   },
   {
     "id": "war_archer_full_set",
@@ -18352,7 +18352,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/war_archer_chestplate.glb"
+    "gltf": "models/war_archer_chestplate.gltf"
   },
   {
     "id": "war_archer_helmet",
@@ -18376,7 +18376,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/war_archer_helmet.glb"
+    "gltf": "models/war_archer_helmet.gltf"
   },
   {
     "id": "war_archer_chestplate",
@@ -18400,7 +18400,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/war_archer_chestplate.glb"
+    "gltf": "models/war_archer_chestplate.gltf"
   },
   {
     "id": "war_archer_leggings",
@@ -18424,7 +18424,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/war_archer_leggings.glb"
+    "gltf": "models/war_archer_leggings.gltf"
   },
   {
     "id": "war_archer_boots",
@@ -18448,7 +18448,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/war_archer_boots.glb"
+    "gltf": "models/war_archer_boots.gltf"
   },
   {
     "id": "warrior_full_set",
@@ -18481,7 +18481,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/warrior_chestplate.glb"
+    "gltf": "models/warrior_chestplate.gltf"
   },
   {
     "id": "warrior_helmet",
@@ -18505,7 +18505,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/warrior_helmet.glb"
+    "gltf": "models/warrior_helmet.gltf"
   },
   {
     "id": "warrior_chestplate",
@@ -18529,7 +18529,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/warrior_chestplate.glb"
+    "gltf": "models/warrior_chestplate.gltf"
   },
   {
     "id": "warrior_leggings",
@@ -18553,7 +18553,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/warrior_leggings.glb"
+    "gltf": "models/warrior_leggings.gltf"
   },
   {
     "id": "warrior_boots",
@@ -18577,7 +18577,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/warrior_boots.glb"
+    "gltf": "models/warrior_boots.gltf"
   },
   {
     "id": "wildling_full_set",
@@ -18610,7 +18610,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/wildling_chestplate.glb"
+    "gltf": "models/wildling_chestplate.gltf"
   },
   {
     "id": "wildling_helmet",
@@ -18634,7 +18634,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/wildling_helmet.glb"
+    "gltf": "models/wildling_helmet.gltf"
   },
   {
     "id": "wildling_chestplate",
@@ -18658,7 +18658,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/wildling_chestplate.glb"
+    "gltf": "models/wildling_chestplate.gltf"
   },
   {
     "id": "wildling_leggings",
@@ -18682,7 +18682,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/wildling_leggings.glb"
+    "gltf": "models/wildling_leggings.gltf"
   },
   {
     "id": "wildling_boots",
@@ -18706,7 +18706,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/wildling_boots.glb"
+    "gltf": "models/wildling_boots.gltf"
   },
   {
     "id": "wind_full_set",
@@ -18739,7 +18739,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/wind_chestplate.glb"
+    "gltf": "models/wind_chestplate.gltf"
   },
   {
     "id": "wind_helmet",
@@ -18763,7 +18763,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/wind_helmet.glb"
+    "gltf": "models/wind_helmet.gltf"
   },
   {
     "id": "wind_chestplate",
@@ -18787,7 +18787,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/wind_chestplate.glb"
+    "gltf": "models/wind_chestplate.gltf"
   },
   {
     "id": "wind_leggings",
@@ -18811,7 +18811,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/wind_leggings.glb"
+    "gltf": "models/wind_leggings.gltf"
   },
   {
     "id": "wind_boots",
@@ -18835,7 +18835,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/wind_boots.glb"
+    "gltf": "models/wind_boots.gltf"
   },
   {
     "id": "wind_worshipper_full_set",
@@ -18868,7 +18868,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/wind_worshipper_chestplate.glb"
+    "gltf": "models/wind_worshipper_chestplate.gltf"
   },
   {
     "id": "wind_worshipper_helmet",
@@ -18892,7 +18892,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/wind_worshipper_helmet.glb"
+    "gltf": "models/wind_worshipper_helmet.gltf"
   },
   {
     "id": "wind_worshipper_chestplate",
@@ -18916,7 +18916,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/wind_worshipper_chestplate.glb"
+    "gltf": "models/wind_worshipper_chestplate.gltf"
   },
   {
     "id": "wind_worshipper_leggings",
@@ -18940,7 +18940,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/wind_worshipper_leggings.glb"
+    "gltf": "models/wind_worshipper_leggings.gltf"
   },
   {
     "id": "wind_worshipper_boots",
@@ -18964,7 +18964,7 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/wind_worshipper_boots.glb"
+    "gltf": "models/wind_worshipper_boots.gltf"
   },
   {
     "id": "wolven_full_set",
@@ -18997,7 +18997,7 @@
       "leggings",
       "boots"
     ],
-    "gltf": "models/wolven_chestplate.glb"
+    "gltf": "models/wolven_chestplate.gltf"
   },
   {
     "id": "wolven_helmet",
@@ -19021,7 +19021,7 @@
     "pieces": [
       "helmet"
     ],
-    "gltf": "models/wolven_helmet.glb"
+    "gltf": "models/wolven_helmet.gltf"
   },
   {
     "id": "wolven_chestplate",
@@ -19045,7 +19045,7 @@
     "pieces": [
       "chestplate"
     ],
-    "gltf": "models/wolven_chestplate.glb"
+    "gltf": "models/wolven_chestplate.gltf"
   },
   {
     "id": "wolven_leggings",
@@ -19069,7 +19069,7 @@
     "pieces": [
       "leggings"
     ],
-    "gltf": "models/wolven_leggings.glb"
+    "gltf": "models/wolven_leggings.gltf"
   },
   {
     "id": "wolven_boots",
@@ -19093,6 +19093,6 @@
     "pieces": [
       "boots"
     ],
-    "gltf": "models/wolven_boots.glb"
+    "gltf": "models/wolven_boots.gltf"
   }
 ]
