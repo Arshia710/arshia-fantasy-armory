@@ -1,1 +1,0 @@
-{"asset":{"version":"2.0","generator":"Blockbench 5.2.2 glTF exporter"},"scenes":[{"nodes":[0,1,2,3,4],"name":"blockbench_export"}],"scene":0,"nodes":[{"translation":[0.5,0.5,0.5],"name":"be1"},{"translation":[0.5,0.5,0.5],"name":"be4"},{"translation":[0.5,0.5,0.5],"name":"be3"},{"translation":[0.5,0.5,0.5],"name":"be2"},{"translation":[0.5,0.5,0.5],"name":"be5"}]}

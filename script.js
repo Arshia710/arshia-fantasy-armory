@@ -32,6 +32,28 @@ let sourceFilter = "all";
 
 const $ = (id) => document.getElementById(id);
 
+// ---- 3D models ---------------------------------------------------------------
+// All models live under MODELS_DIR. Today it is flat: models/<id>.bbmodel
+// (viewer.js also tries models/<id>.geo.bbmodel for Bedrock exports, then legacy .gltf).
+// NOTE: item.model in database.json is NOT used here (it holds the in-game resource location,
+// e.g. "minecraft:item/weapons/majestica/thunderbrand", not a file path).
+// For nested folders later, either set a path RELATIVE to models/ per item in database.json
+//   "bbmodel": "weapons/majestica/thunderbrand.bbmodel"
+// or change the default below. This function is the only place that builds model paths.
+const MODELS_DIR = "models";
+function modelUrls(item) {
+  const urls = [];
+  if (item.bbmodel) {
+    const isAbsolute = /^(https?:)?\/\//.test(item.bbmodel) || item.bbmodel.startsWith("/") || item.bbmodel.startsWith(MODELS_DIR + "/");
+    urls.push(isAbsolute ? item.bbmodel : `${MODELS_DIR}/${item.bbmodel}`);
+  }
+  if (item.id) urls.push(`${MODELS_DIR}/${item.id}.bbmodel`);
+  // legacy glTF, tried only if no .bbmodel is found (item.gltf is a path from the site root, as before)
+  if (item.gltf) urls.push(item.gltf);
+  else if (item.id) urls.push(`${MODELS_DIR}/${item.id}.gltf`);
+  return [...new Set(urls)];
+}
+
 fetch("data/database.json")
   .then((r) => {
     if (!r.ok) throw new Error("HTTP " + r.status + " for data/database.json");
@@ -255,15 +277,15 @@ function openModal(item) {
   const prev = $("modal-preview");
   prev.innerHTML = "";
   const thumb = item.thumbnail;
-  const gltf = item.gltf || (item.id ? `models/${item.id}.gltf` : null);
+  const models = modelUrls(item);
   const showFallback = () => {
     if (thumb) prev.innerHTML = `<img src="${escapeHtml(thumb)}" alt="" />`;
     else prev.textContent = TYPE_ICONS[item.type] || "✦";
   };
-  if (gltf) {
+  if (models.length) {
     // Dynamic import so catalog still works if Three.js CDN fails
     import("./viewer.js")
-      .then((mod) => mod.openViewer(prev, gltf, thumb))
+      .then((mod) => mod.openViewer(prev, models, thumb))
       .catch((err) => {
         console.warn("3D viewer unavailable", err);
         showFallback();
