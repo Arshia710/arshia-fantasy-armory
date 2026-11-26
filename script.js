@@ -33,24 +33,33 @@ let sourceFilter = "all";
 const $ = (id) => document.getElementById(id);
 
 // ---- 3D models ---------------------------------------------------------------
-// All models live under MODELS_DIR. Today it is flat: models/<id>.bbmodel
-// (viewer.js also tries models/<id>.geo.bbmodel for Bedrock exports, then legacy .gltf).
-// NOTE: item.model in database.json is NOT used here (it holds the in-game resource location,
-// e.g. "minecraft:item/weapons/majestica/thunderbrand", not a file path).
-// For nested folders later, either set a path RELATIVE to models/ per item in database.json
-//   "bbmodel": "weapons/majestica/thunderbrand.bbmodel"
-// or change the default below. This function is the only place that builds model paths.
+// Where a model file lives is DERIVED from database.json, so the database/scanner never need editing:
+//
+//  WEAPONS: from the in-game model name in "model"
+//    "minecraft:item/weapons/majestica/abominableblade" -> models/weapons/majestica/abominableblade.bbmodel
+//    (namespace and a leading "item/" are dropped)
+//
+//  ARMOR:   models/armors/<pack>/<name>.bbmodel     (<pack> = "pack" field: arshia, fantasy_armor, ...)
+//    pieces   -> <name> = last part of "model"  e.g. malenia_helmet / malenia_chestplate / malenia_leggings / malenia_boots
+//    Full Set -> <name> = the item id           e.g. malenia_full_set
+//
+// Everything is lower-case: GitHub Pages is case-sensitive, so keep folders and file names lower-case.
+// Optional per-item override in database.json:  "bbmodel": "some/folder/file.bbmodel"  (relative to models/)
+// NOTE: item.id is not used for weapons (ids contain underscores, file names do not) and the old
+// item.gltf field is ignored on purpose. This function is the only place that builds model paths.
 const MODELS_DIR = "models";
 function modelUrls(item) {
   const urls = [];
-  if (item.bbmodel) {
-    const isAbsolute = /^(https?:)?\/\//.test(item.bbmodel) || item.bbmodel.startsWith("/") || item.bbmodel.startsWith(MODELS_DIR + "/");
-    urls.push(isAbsolute ? item.bbmodel : `${MODELS_DIR}/${item.bbmodel}`);
+  const rel = (p) =>
+    /^(https?:)?\/\//.test(p) || p.startsWith("/") || p.startsWith(MODELS_DIR + "/") ? p : `${MODELS_DIR}/${p}`;
+  if (item.bbmodel) urls.push(rel(item.bbmodel));
+  if (item.group === "armor") {
+    const name = item.type === "Full Set" ? item.id : (item.model || "").split("/").pop();
+    if (name) urls.push(`${MODELS_DIR}/armors/${item.pack}/${name}.bbmodel`.toLowerCase());
+  } else if (item.model) {
+    const path = item.model.replace(/^[^:]*:/, "").replace(/^item\//, "").toLowerCase();
+    urls.push(`${MODELS_DIR}/${path}.bbmodel`);
   }
-  if (item.id) urls.push(`${MODELS_DIR}/${item.id}.bbmodel`);
-  // legacy glTF, tried only if no .bbmodel is found (item.gltf is a path from the site root, as before)
-  if (item.gltf) urls.push(item.gltf);
-  else if (item.id) urls.push(`${MODELS_DIR}/${item.id}.gltf`);
   return [...new Set(urls)];
 }
 
