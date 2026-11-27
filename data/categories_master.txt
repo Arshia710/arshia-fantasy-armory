@@ -177,6 +177,7 @@ Azure Sabre | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
 Berserker's Cleaver | Sword | sword, axe | special | Nongko's Fantasy Weapons
 Black Iron Greatsword | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
 Calamity Blade | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
+Calamity Blade Thin | Sword | sword, axe | legendary | Nongko's Fantasy Weapons
 Claymore | Sword | sword, axe | superior | Nongko's Fantasy Weapons
 Crimson Cleaver | Sword | sword, axe | exquisite | Nongko's Fantasy Weapons
 Crystal Frostblade | Sword | sword, axe | special | Nongko's Fantasy Weapons
