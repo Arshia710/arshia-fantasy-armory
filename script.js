@@ -380,5 +380,26 @@ function startHero() {
     $("hero-label").textContent = it.name;
   };
   show();
-  setInterval(show, 4000);
+  const timer = setInterval(show, 4000);
+
+  // 3D upgrade: rotate only items that have a .bbmodel (known from data/paths.json). The emoji hero above
+  // stays as the fallback (no models yet, slow connection / data saver, WebGL or three.js unavailable).
+  const conn = navigator.connection;
+  const slow = conn && (conn.saveData || /2g/.test(conn.effectiveType || ""));
+  const withModel = PATHS && !slow ? items.filter((i) => (i.group === "weapon" || i.type === "Full Set") && lookup(i, "models")) : [];
+  if (!withModel.length) return;
+  const go = () =>
+    import("./hero3d.js")
+      .then((m) =>
+        m.startHero3D({
+          stage: $("hero-stage"),
+          label: $("hero-label"),
+          items: withModel,
+          urlOf: (it) => modelUrls(it)[0],
+          display: null, // keep equal to BB_DISPLAY in viewer.js
+          onReady: () => clearInterval(timer), // 3D is on screen: stop the emoji rotation
+        })
+      )
+      .catch((e) => console.warn("3D hero unavailable", e));
+  "requestIdleCallback" in window ? requestIdleCallback(go, { timeout: 2500 }) : setTimeout(go, 800);
 }

@@ -679,3 +679,14 @@ body {
     min-height: 220px !important;
   }
 }
+
+/* ---- 3D hero showcase (hero3d.js) ---- */
+.hero-stage.has-3d { min-height: 300px; overflow: hidden; }
+.hero-stage.has-3d .hero-spin { display: none; }
+.hero-stage .hero-canvas {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  display: block; opacity: 0; transition: opacity .28s ease;
+}
+.hero-stage.has-3d .hero-label { z-index: 1; text-shadow: 0 1px 6px #000; }
+@media (max-width: 1000px) { .hero-stage.has-3d { min-height: 240px; } }
+@media (prefers-reduced-motion: reduce) { .hero-stage .hero-canvas { transition: none; } }
