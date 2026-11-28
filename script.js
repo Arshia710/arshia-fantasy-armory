@@ -397,6 +397,7 @@ function startHero() {
           items: withModel,
           urlOf: (it) => modelUrls(it)[0],
           display: null, // keep equal to BB_DISPLAY in viewer.js
+          onPick: openModal, // click / tap on the showcase opens this item's modal
           onReady: () => clearInterval(timer), // 3D is on screen: stop the emoji rotation
         })
       )

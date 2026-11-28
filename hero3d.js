@@ -19,8 +19,9 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
  * @param urlOf    item -> .bbmodel url
  * @param display  "gui" | null  (same meaning as BB_DISPLAY in viewer.js; keep them equal)
  * @param onReady  called once, when the first model is on screen
+ * @param onPick   called with the item when the visitor clicks / taps (or presses Enter on) the showcase
  */
-export async function startHero3D({ stage, label, items, urlOf, display = null, onReady, showMs = 6000, fadeMs = 280, fps = 30 }) {
+export async function startHero3D({ stage, label, items, urlOf, display = null, onReady, onPick, showMs = 6000, fadeMs = 280, fps = 30 }) {
   if (!items.length) return false;
   const reduced = typeof matchMedia === "function" && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
@@ -116,6 +117,17 @@ export async function startHero3D({ stage, label, items, urlOf, display = null, 
     camera = new THREE.PerspectiveCamera(35, 1, 0.01, 100);
     stage.appendChild(canvas);
     stage.classList.add("has-3d");
+    if (onPick) {
+      // the showcase becomes a button that opens the shown item
+      const pick = () => current && onPick(current.item);
+      stage.tabIndex = 0;
+      stage.setAttribute("role", "button");
+      stage.removeAttribute("aria-hidden");
+      stage.addEventListener("click", pick);
+      stage.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(); }
+      });
+    }
     new ResizeObserver(resize).observe(stage);
     resize();
   };
@@ -135,6 +147,7 @@ export async function startHero3D({ stage, label, items, urlOf, display = null, 
     scene.add(entry.model.object);
     fit();
     label.textContent = entry.item.name;
+    if (onPick) stage.setAttribute("aria-label", "Open " + entry.item.name);
     if (!raf) draw(); // still frame (also used for reduced motion)
     canvas.style.opacity = "1";
   };

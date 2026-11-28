@@ -681,7 +681,8 @@ body {
 }
 
 /* ---- 3D hero showcase (hero3d.js) ---- */
-.hero-stage.has-3d { min-height: 300px; overflow: hidden; }
+.hero-stage.has-3d { min-height: 300px; overflow: hidden; cursor: pointer; }
+.hero-stage.has-3d:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .hero-stage.has-3d .hero-spin { display: none; }
 .hero-stage .hero-canvas {
   position: absolute; inset: 0; width: 100%; height: 100%;
